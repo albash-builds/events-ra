@@ -2,12 +2,12 @@ name: Update Madrid events
 
 on:
   schedule:
-    # Weekly (Monday 02:00 UTC) – adjust if you like
-    - cron: '0 2 * * 1'
-  workflow_dispatch:
+    # Every Monday at 03:00 UTC
+    - cron: "0 3 * * 1"
+  workflow_dispatch: {}
 
 jobs:
-  update:
+  update-events:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,48 +17,40 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.10"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
 
       - name: Compute date range
         id: dates
         run: |
-          python - << 'PY'
-          from datetime import date, timedelta
-
-          today = date.today()
-          end = today + timedelta(days=30)
-
-          with open("$GITHUB_OUTPUT", "a") as f:
-              f.write(f"start={today.isoformat()}\n")
-              f.write(f"end={end.isoformat()}\n")
-          PY
+          START_DATE=$(date -u +%Y-%m-%d)
+          END_DATE=$(date -u -d "+30 days" +%Y-%m-%d)
+          echo "start_date=$START_DATE" >> $GITHUB_OUTPUT
+          echo "end_date=$END_DATE" >> $GITHUB_OUTPUT
 
       - name: Fetch Madrid events
         run: |
-          python event_fetcher.py 41 \
-            ${{ steps.dates.outputs.start }} \
-            ${{ steps.dates.outputs.end }} \
-            -o madrid-events.csv
+          python event_fetcher.py 41 "${{ steps.dates.outputs.start_date }}" "${{ steps.dates.outputs.end_date }}" -o madrid-events.csv
 
-      - name: Add images to events CSV
-        run: python add_images.py madrid-events.csv
+      - name: Add images to events
+        run: |
+          python add_images.py madrid-events.csv
 
       - name: Convert CSV to JSON
         run: |
-          python - << 'PY'
-          import pandas as pd
-
-          df = pd.read_csv("madrid-events.csv")
-          df.to_json("madrid-events.json", orient="records")
-          PY
+          python csv_to_json.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add madrid-events.csv madrid-events.json
-          git commit -m "Update Madrid events" || echo "No changes to commit"
-          git push
+          git add madrid-events.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Madrid events"
+            git push
+          fi
