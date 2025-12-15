@@ -1,896 +1,5 @@
 [
   {
-    "name": "VAYADRAMA:TOMMY G, VALENTINO, ELECTRINITY",
-    "date": "2025-12-07T00:00:00.000",
-    "start_time": "2025-12-07T18:00:00.000",
-    "end_time": "2025-12-08T23:59:00.000",
-    "artists": "",
-    "venue": "Hangar48 Club",
-    "url": "/events/2316555",
-    "attending": "47",
-    "image": ""
-  },
-  {
-    "name": "Proper People",
-    "date": "2025-12-04T00:00:00.000",
-    "start_time": "2025-12-04T21:00:00.000",
-    "end_time": "2025-12-12T02:30:00.000",
-    "artists": "Trianta",
-    "venue": "Ceferino",
-    "url": "/events/2316655",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "Starina feat. DJH + Diego Navarro + Akira + Kanti",
-    "date": "2025-12-08T00:00:00.000",
-    "start_time": "2025-12-08T23:00:00.000",
-    "end_time": "2025-12-09T06:00:00.000",
-    "artists": "Diego Navarro, Akira (IT), Kanti",
-    "venue": "Core",
-    "url": "/events/2320963",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Łaszewo in Madrid",
-    "date": "2025-12-09T00:00:00.000",
-    "start_time": "2025-12-09T19:30:00.000",
-    "end_time": "2025-12-09T23:00:00.000",
-    "artists": "",
-    "venue": "Sala Nazca",
-    "url": "/events/2276566",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "Proper People",
-    "date": "2025-12-04T00:00:00.000",
-    "start_time": "2025-12-04T21:00:00.000",
-    "end_time": "2025-12-12T02:30:00.000",
-    "artists": "Trianta",
-    "venue": "Ceferino",
-    "url": "/events/2316655",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "Elements Cave",
-    "date": "2025-12-10T00:00:00.000",
-    "start_time": "2025-12-10T23:59:00.000",
-    "end_time": "2025-12-11T05:00:00.000",
-    "artists": "",
-    "venue": "Sala El Sol",
-    "url": "/events/2315813",
-    "attending": "5",
-    "image": ""
-  },
-  {
-    "name": "Proper People",
-    "date": "2025-12-04T00:00:00.000",
-    "start_time": "2025-12-04T21:00:00.000",
-    "end_time": "2025-12-12T02:30:00.000",
-    "artists": "Trianta",
-    "venue": "Ceferino",
-    "url": "/events/2316655",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "ANFANG FAM DAY w/ SAFIA & REPTILE",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T05:30:00.000",
-    "artists": "Reptile (ES)",
-    "venue": "Cadavra",
-    "url": "/events/2302113",
-    "attending": "25",
-    "image": ""
-  },
-  {
-    "name": "PRADA2000 / Riana Holley / Sandwicho",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T05:30:00.000",
-    "artists": "PRADA2000, Riana Holley, Sandwicho",
-    "venue": "Mondo",
-    "url": "/events/2282256",
-    "attending": "19",
-    "image": ""
-  },
-  {
-    "name": "ONGOING presents Noise Mafia , Luxi Villar & BIXBITA",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T05:30:00.000",
-    "artists": "Luxi Villar, BIXBITA, Noise Mafia",
-    "venue": "The Bassement",
-    "url": "/events/2308104",
-    "attending": "22",
-    "image": ""
-  },
-  {
-    "name": "DANZE AFRIKA CLUB: DJ CHRIS ROSE, DJ MBA",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T05:30:00.000",
-    "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2312004",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "ACID SYNC (live) — Sink Sync + AcidPel",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:30:00.000",
-    "end_time": "2025-12-12T05:30:00.000",
-    "artists": "Sink Sync",
-    "venue": "berlinClub",
-    "url": "/events/2317581",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "microdosis presenta: Rezident",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T20:00:00.000",
-    "end_time": "2025-12-11T23:30:00.000",
-    "artists": "Rezident",
-    "venue": "berlinClub",
-    "url": "/events/2317577",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Our Space X INTIME - Orsay - AMANN, Fortuno, CAMET, ARENA JAÄRA",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T06:00:00.000",
-    "artists": "Orsay, Fortuno, AMANN, CAMET",
-    "venue": "Lula Club",
-    "url": "/events/2287171",
-    "attending": "92",
-    "image": ""
-  },
-  {
-    "name": "(Venta externa) Rezident en microdosis - Café Berlín, Madrid",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T22:00:00.000",
-    "end_time": "2025-12-11T23:30:00.000",
-    "artists": "Rezident",
-    "venue": "Café Berlín",
-    "url": "/events/2242985",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "Turbio",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:00:00.000",
-    "end_time": "2025-12-12T06:00:00.000",
-    "artists": "M3LO, xarky",
-    "venue": "TBA - Klan Club Privado",
-    "url": "/events/2318464",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "CLUB DEL FOMO invita a Recreo (entrada gratis)",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T22:00:00.000",
-    "end_time": "2025-12-12T04:00:00.000",
-    "artists": "WO KEM, Mar Bravo",
-    "venue": "Gilda Club",
-    "url": "/events/2317775",
-    "attending": "6",
-    "image": ""
-  },
-  {
-    "name": "Antidoto Club x Bershka Music: Bao G",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T05:30:00.000",
-    "artists": "Yosef, Diego Armando, Maxvll",
-    "venue": "ART Madrid Club",
-    "url": "/events/2296089",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "Acid Sync (live)",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T05:30:00.000",
-    "artists": "Sink Sync",
-    "venue": "Café Berlín",
-    "url": "/events/2309935",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "Cinema Verité feat. Babyschon",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:00:00.000",
-    "end_time": "2025-12-12T05:30:00.000",
-    "artists": "babyschön, Fuentes-Guerra, Dichas",
-    "venue": "Club Malasaña",
-    "url": "/events/2313277",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "UNFAMOUSDJS Progressive Nights",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T03:00:00.000",
-    "artists": "ALEX FÖX, IVANG",
-    "venue": "Cafe La Palma",
-    "url": "/events/2320331",
-    "attending": "6",
-    "image": ""
-  },
-  {
-    "name": "Proper People",
-    "date": "2025-12-04T00:00:00.000",
-    "start_time": "2025-12-04T21:00:00.000",
-    "end_time": "2025-12-12T02:30:00.000",
-    "artists": "Trianta",
-    "venue": "Ceferino",
-    "url": "/events/2316655",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "ILIADA CLUB + Miguel Rivas + CLARISSA DALILA + TOSQUI + XCORP",
-    "date": "2025-12-11T00:00:00.000",
-    "start_time": "2025-12-11T23:59:00.000",
-    "end_time": "2025-12-12T06:00:00.000",
-    "artists": "Miguel Rivas",
-    "venue": "Sala Pirandelo",
-    "url": "/events/2317121",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "BRNT with Kölsch & The Machine",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Kolsch",
-    "venue": "LAB theCLUB",
-    "url": "/events/2220183",
-    "attending": "732",
-    "image": ""
-  },
-  {
-    "name": "TOY TONICS",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Victor Carré, Body-O, Cody Currie, Sam Ruffillo",
-    "venue": "Lula Club",
-    "url": "/events/2279715",
-    "attending": "141",
-    "image": ""
-  },
-  {
-    "name": "Elements Cave",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "",
-    "venue": "Next Clubbing",
-    "url": "/events/2315815",
-    "attending": "16",
-    "image": ""
-  },
-  {
-    "name": "CDVR with Enrica Falqui",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Enrica Falqui, DJ F (ES), Pillen, Gancho, John Garcia",
-    "venue": "Cadavra",
-    "url": "/events/2210914",
-    "attending": "11",
-    "image": ""
-  },
-  {
-    "name": "CACAO presents Anthony Godfather & Freenzy",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Anthony Godfather (2), Sebastian Rivero",
-    "venue": "The Bassement",
-    "url": "/events/2310212",
-    "attending": "10",
-    "image": ""
-  },
-  {
-    "name": "Gilda Club - Cee Excursions",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Syd dePalma, oma totem, Lucient",
-    "venue": "Gilda Club",
-    "url": "/events/2316015",
-    "attending": "10",
-    "image": ""
-  },
-  {
-    "name": "BIG-OTHER XMAS SESSION - TARDEO: Maik Miroux, Jesús Mar, Bárbara García",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T18:00:00.000",
-    "end_time": "2025-12-12T23:59:00.000",
-    "artists": "Maik Miroux",
-    "venue": "EL SÓTANO",
-    "url": "/events/2314115",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "Skin ALPHA MISO SHOWCASE: GIA + pavvvvvvlo",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "GIA, pavvvvvvlo",
-    "venue": "Skin",
-    "url": "/events/2317544",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "El cuerpo del Disco: Yayo & Eloi",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "El cuerpo del Disco",
-    "venue": "berlinClub",
-    "url": "/events/2317583",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "HEAT: ANTEKA, HECTOR SANZ, SANTTO, SERGIO GONZALEZ",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:00:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "",
-    "venue": "Hangar48 Club",
-    "url": "/events/2316335",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Promised Wax",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "THEOS (1), Matthieu Faubourg, Santa Fe, Palimpseste",
-    "venue": "Goya Social Club",
-    "url": "/events/2313938",
-    "attending": "62",
-    "image": ""
-  },
-  {
-    "name": "NUDE with CEM, CH3LO, Baldman, Gala | EXTENDED HOURS",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T12:00:00.000",
-    "artists": "CEM, CH3LO, Baldman, Gala (ES)",
-    "venue": "TBA",
-    "url": "/events/2314571",
-    "attending": "38",
-    "image": ""
-  },
-  {
-    "name": "MARGARITA ELECTRONICA #17 KATIA, Cobrabubble b2b Willy, cris sinaka, Elena",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T08:00:00.000",
-    "artists": "KATIA, You_el, Willy, cris sinaka",
-    "venue": "TBA",
-    "url": "/events/2308244",
-    "attending": "33",
-    "image": ""
-  },
-  {
-    "name": "Aracne Closing Vibes Club",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Lidvall",
-    "venue": "Specka",
-    "url": "/events/2257821",
-    "attending": "11",
-    "image": ""
-  },
-  {
-    "name": "EKHO / FUTURE.666",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "",
-    "venue": "ART Madrid Club",
-    "url": "/events/2312241",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "Pogo",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Montenegro, Julietta Ferrari, Pogo DJs",
-    "venue": "Sala Siroco",
-    "url": "/events/2314076",
-    "attending": "5",
-    "image": ""
-  },
-  {
-    "name": "NONAME: 12 DIC",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "",
-    "venue": "Tho Club",
-    "url": "/events/2299264",
-    "attending": "4",
-    "image": ""
-  },
-  {
-    "name": "VULCANO VOL 5- VINYL ONLY ESPECIAL - OCTOGON",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:00:00.000",
-    "end_time": "2025-12-13T08:00:00.000",
-    "artists": "",
-    "venue": "Laboratorio Octogon",
-    "url": "/events/2314192",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "Taxi Drivers feat. Gabbs",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:00:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Taxi Drivers, Gabbs",
-    "venue": "Club Malasaña",
-    "url": "/events/2313278",
-    "attending": "3",
-    "image": ""
-  },
-  {
-    "name": "Baile Europa",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "",
-    "venue": "Sala El Sol",
-    "url": "/events/2308886",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "Chris Estrella 3 Hour Afro House Set - Madrid DJ Talents by Red Malasaña",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:00:00.000",
-    "end_time": "2025-12-13T03:00:00.000",
-    "artists": "",
-    "venue": "Black Russian",
-    "url": "/events/2317568",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "Ibiza Bpm Radio 2 Anniversary / Madrid",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T19:00:00.000",
-    "end_time": "2025-12-13T01:00:00.000",
-    "artists": "Paul Ross, CAMET",
-    "venue": "Eventize",
-    "url": "/events/2320872",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Villa Pantani feat. Maruwa + Marcelo Pantani",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:00:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Maruwa, Marcelo Pantani",
-    "venue": "Core",
-    "url": "/events/2320964",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Salve Groove x Under Bridge",
-    "date": "2025-12-12T00:00:00.000",
-    "start_time": "2025-12-12T23:59:00.000",
-    "end_time": "2025-12-13T06:00:00.000",
-    "artists": "Brisa Then, DJ MATERIA PRIMA",
-    "venue": "Under Bridge Madrid",
-    "url": "/events/2321732",
-    "attending": "5",
-    "image": ""
-  },
-  {
-    "name": "Laster Club presents Dax J, Phara & LAIA",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Dax J, Phara, LAIA",
-    "venue": "The Bassement",
-    "url": "/events/2277770",
-    "attending": "154",
-    "image": ""
-  },
-  {
-    "name": "ESENCIA PURA by DJ MARTA",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "",
-    "venue": "LAB theCLUB",
-    "url": "/events/2261760",
-    "attending": "125",
-    "image": ""
-  },
-  {
-    "name": "TECHNODROME: Alexxandra, Laura Lane, YordanBass",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2317801",
-    "attending": "63",
-    "image": ""
-  },
-  {
-    "name": "X CLUB. / Gerardo Niva / Dan Newman",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Dan Newman, X CLUB., Gerardo Niva",
-    "venue": "Mondo",
-    "url": "/events/2282265",
-    "attending": "56",
-    "image": ""
-  },
-  {
-    "name": "GROSSOMODDO",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "",
-    "venue": "Lula Club",
-    "url": "/events/2279718",
-    "attending": "38",
-    "image": ""
-  },
-  {
-    "name": "Tortilla with Sungate Records Showcase",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T18:30:00.000",
-    "end_time": "2025-12-13T23:30:00.000",
-    "artists": "Moy Santana",
-    "venue": "High Club Room",
-    "url": "/events/2281949",
-    "attending": "41",
-    "image": ""
-  },
-  {
-    "name": "Glossy Mistakes VI ANNIVERSARY ",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "DJ Sotofett, Glossy Mario",
-    "venue": "Cadavra",
-    "url": "/events/2302127",
-    "attending": "23",
-    "image": ""
-  },
-  {
-    "name": "AVISPERO - TARDEO: DiscoSisters, Mr Cong, Monty, Carpantis",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T18:00:00.000",
-    "end_time": "2025-12-13T23:59:00.000",
-    "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2311966",
-    "attending": "22",
-    "image": ""
-  },
-  {
-    "name": "Madrid Legacy",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T18:00:00.000",
-    "end_time": "2025-12-13T23:59:00.000",
-    "artists": "",
-    "venue": "LAB theCLUB",
-    "url": "/events/2294012",
-    "attending": "6",
-    "image": ""
-  },
-  {
-    "name": "YES, BITCH! X Skin",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Ezekiel Monjes, Daddy Squad",
-    "venue": "Skin",
-    "url": "/events/2315327",
-    "attending": "8",
-    "image": ""
-  },
-  {
-    "name": "Gilda Club - PULSO",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "2garlics, BIHABI, Toni Aparisi, Bawrut, lebollet",
-    "venue": "Gilda Club",
-    "url": "/events/2316024",
-    "attending": "5",
-    "image": ""
-  },
-  {
-    "name": "SERENDIPIA MUSIC:Yahaira, ISMAEL DEL VAL, Ivan del Burgo, EDU CARPFACE",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Yahaira, Ivan del Burgo",
-    "venue": "Hangar48 Club",
-    "url": "/events/2315990",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Davide D'Amico + Gaspar & Elena + Le Nomad",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Davide D'Amico, Gaspar Antuña, Le Nomad",
-    "venue": "berlinClub",
-    "url": "/events/2317586",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Red Moon ➟ hardgroove - techno - vinyl night (Studio76)",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T10:00:00.000",
-    "artists": "FLDS, Javi Infantes, Crissis",
-    "venue": "TBA - Powered by: Void Acoustics ",
-    "url": "/events/2278222",
-    "attending": "163",
-    "image": ""
-  },
-  {
-    "name": "EN1GMA",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:30:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "M8NSE, Sonora, Rubén Secaduras, ALCATRAZ, Rozzer",
-    "venue": "Sala ON Madrid",
-    "url": "/events/2290108",
-    "attending": "68",
-    "image": ""
-  },
-  {
-    "name": "TWIST DNB BACK TO DA CLUB  (WOLF NO SHEEP)",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "1991 (UK)",
-    "venue": "Etnia Club",
-    "url": "/events/2290705",
-    "attending": "59",
-    "image": ""
-  },
-  {
-    "name": "FACE 2 FACE X BLACKWORKS - MADRID WAREHOUSE",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:00:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Act of Rage, Adrian Mills, Serafina, zwilling., Dexphase, Lorenzo Raganzini, Dj Pepo, ines isla, Raquel X, Mija, Frederic., Taiko",
-    "venue": "IFEMA",
-    "url": "/events/2294851",
-    "attending": "45",
-    "image": ""
-  },
-  {
-    "name": "Selected Records SHOWCASE",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:00:00.000",
-    "end_time": "2025-12-14T13:00:00.000",
-    "artists": "Gabriel D'or & Bordoy, Unkle Fon, Angelo Stasi, Jesus Riaño",
-    "venue": "Lasociaciøn",
-    "url": "/events/2298270",
-    "attending": "46",
-    "image": ""
-  },
-  {
-    "name": "David Vunk - Halley Club",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "David Vunk, David Ponziano",
-    "venue": "Specka",
-    "url": "/events/2222883",
-    "attending": "25",
-    "image": ""
-  },
-  {
-    "name": "FÜNDAY w/ esther bronchal",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "esther bronchal, Felipe Bravo",
-    "venue": "ART Madrid Club",
-    "url": "/events/2313983",
-    "attending": "34",
-    "image": ""
-  },
-  {
-    "name": "Under Bridge International",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Robiin",
-    "venue": "Under Bridge Madrid",
-    "url": "/events/2317719",
-    "attending": "10",
-    "image": ""
-  },
-  {
-    "name": "Shmn W Fabe",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Fabe, Giorgio Robles, Vincent Giumelli, Human Halo",
-    "venue": "Sala Muv",
-    "url": "/events/2301056",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "Pachanga feat. Jeniffer Loveless",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:00:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Pachanga, Jennifer Loveless",
-    "venue": "Club Malasaña",
-    "url": "/events/2313279",
-    "attending": "5",
-    "image": ""
-  },
-  {
-    "name": "Digital 21 (Live!) at LET'S DANCE CLUB 'ELECTRONIC MUSIC & ART'",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Digital 21",
-    "venue": "Sala Siroco",
-    "url": "/events/2291815",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "SIESTA33 - Electrónica / Indie Dance / Tech-House / Cold Wave / EDM",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "",
-    "venue": "Ayala 120 Club",
-    "url": "/events/2312019",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "Retrovision",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Rayko, Suspiria, Playtone9000",
-    "venue": "High Club Room",
-    "url": "/events/2309333",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "YELO",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:59:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "",
-    "venue": "Sala El Sol",
-    "url": "/events/2314086",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "BAG2BAG feat. Byron Yeates b2b DHC + MALENA",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:00:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "Byron Yeates, DHC, MALENA",
-    "venue": "Core",
-    "url": "/events/2320970",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "WatchFree! Broncos at. Raiders LiveStream Every Play Online",
-    "date": "2025-12-13T00:00:00.000",
-    "start_time": "2025-12-13T23:00:00.000",
-    "end_time": "2025-12-14T06:00:00.000",
-    "artists": "",
-    "venue": "Ythaka Dreams Club",
-    "url": "/events/2321785",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "BLASTER: Mako, Arok Shiva, Carradine",
-    "date": "2025-12-14T00:00:00.000",
-    "start_time": "2025-12-14T23:59:00.000",
-    "end_time": "2025-12-15T05:30:00.000",
-    "artists": "Mako, Arok Shiva",
-    "venue": "EL SÓTANO",
-    "url": "/events/2312107",
-    "attending": "16",
-    "image": ""
-  },
-  {
-    "name": "AXIOM UNMATCHED: Héctor Mad, Súper Pä, Mentho, R1ton",
-    "date": "2025-12-14T00:00:00.000",
-    "start_time": "2025-12-14T18:00:00.000",
-    "end_time": "2025-12-14T23:59:00.000",
-    "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2310849",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Skin MISA: Djen + Noot Noot + Reitze",
-    "date": "2025-12-14T00:00:00.000",
-    "start_time": "2025-12-14T23:00:00.000",
-    "end_time": "2025-12-15T05:30:00.000",
-    "artists": "Djen, Noot Noot, Reitze",
-    "venue": "Skin",
-    "url": "/events/2317536",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "La Gran Cucaracha: Asalto Navideño",
-    "date": "2025-12-14T00:00:00.000",
-    "start_time": "2025-12-14T18:00:00.000",
-    "end_time": "2025-12-15T03:00:00.000",
-    "artists": "",
-    "venue": "Florida Park",
-    "url": "/events/2315539",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "Soundbaths Radio 04",
-    "date": "2025-12-14T00:00:00.000",
-    "start_time": "2025-12-14T15:00:00.000",
-    "end_time": "2025-12-14T20:30:00.000",
-    "artists": "BIHABI, theq",
-    "venue": "Soundbaths",
-    "url": "/events/2321655",
-    "attending": "2",
-    "image": ""
-  },
-  {
     "name": "Elements Cave",
     "date": "2025-12-17T00:00:00.000",
     "start_time": "2025-12-17T23:59:00.000",
@@ -898,7 +7,7 @@
     "artists": "",
     "venue": "Sala El Sol",
     "url": "/events/2315814",
-    "attending": "2",
+    "attending": "25",
     "image": ""
   },
   {
@@ -909,18 +18,18 @@
     "artists": "DJ Stingray 313, J.C., Flaco Bengala, BENGALA, Silva, Gaussian Blur",
     "venue": "Cadavra",
     "url": "/events/2302123",
-    "attending": "23",
+    "attending": "37",
     "image": ""
   },
   {
-    "name": "ØTTA / Club Calimari",
+    "name": "ØTTA / Alba Franch / Club Calimari",
     "date": "2025-12-18T00:00:00.000",
     "start_time": "2025-12-18T23:59:00.000",
     "end_time": "2025-12-19T06:00:00.000",
-    "artists": "ØTTA, Club Calimari",
+    "artists": "ØTTA, Alba Franch, Club Calimari",
     "venue": "Mondo",
     "url": "/events/2282272",
-    "attending": "10",
+    "attending": "12",
     "image": ""
   },
   {
@@ -931,7 +40,7 @@
     "artists": "DJ Mois",
     "venue": "EL SÓTANO",
     "url": "/events/2311996",
-    "attending": "2",
+    "attending": "3",
     "image": ""
   },
   {
@@ -942,29 +51,40 @@
     "artists": "Marcos Boricua",
     "venue": "berlinClub",
     "url": "/events/2317589",
-    "attending": "2",
+    "attending": "4",
     "image": ""
   },
   {
-    "name": "UNDERHELL: THE LAST RITUAL",
+    "name": "BPM: Rattlesnakke +  La Cachetona + Kwistian",
     "date": "2025-12-18T00:00:00.000",
-    "start_time": "2025-12-18T23:00:00.000",
+    "start_time": "2025-12-18T23:59:00.000",
+    "end_time": "2025-12-19T05:30:00.000",
+    "artists": "Rattlesnakke, La Cachetona",
+    "venue": "Skin",
+    "url": "/events/2319955",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Crême de Crême",
+    "date": "2025-12-18T00:00:00.000",
+    "start_time": "2025-12-18T23:59:00.000",
     "end_time": "2025-12-19T06:00:00.000",
-    "artists": "BELCEBÚ, Reitze",
-    "venue": "Next Clubbing",
-    "url": "/events/2312873",
-    "attending": "18",
+    "artists": "Davide Squillace, Jean Pierre",
+    "venue": "Lula Club",
+    "url": "/events/2325366",
+    "attending": "0",
     "image": ""
   },
   {
-    "name": "CLUB DEL FOMO invita a FARADAY (entrada gratis)",
+    "name": "Symbole Open Decks VIII",
     "date": "2025-12-18T00:00:00.000",
-    "start_time": "2025-12-18T22:00:00.000",
-    "end_time": "2025-12-19T04:00:00.000",
-    "artists": "CARMESEGUER, Mamba Nera, Atrâm",
-    "venue": "Gilda Club",
-    "url": "/events/2317781",
-    "attending": "7",
+    "start_time": "2025-12-18T23:59:00.000",
+    "end_time": "2025-12-19T05:00:00.000",
+    "artists": "Ari Jani, Zagal, Killo",
+    "venue": "Sala Siroco",
+    "url": "/events/2324487",
+    "attending": "110",
     "image": ""
   },
   {
@@ -975,29 +95,51 @@
     "artists": "Fortuno, AMANN",
     "venue": "Lula Club",
     "url": "/events/2287172",
-    "attending": "4",
+    "attending": "26",
     "image": ""
   },
   {
-    "name": "UNDERMASS Dj CONTEST",
+    "name": "CLUB DEL FOMO invita a FARADAY (entrada gratis)",
+    "date": "2025-12-18T00:00:00.000",
+    "start_time": "2025-12-18T22:00:00.000",
+    "end_time": "2025-12-19T04:00:00.000",
+    "artists": "CARMESEGUER, Mamba Nera, Atrâm",
+    "venue": "Gilda Club",
+    "url": "/events/2317781",
+    "attending": "11",
+    "image": ""
+  },
+  {
+    "name": "UNDERMASS Dj CONTEST GRATIS HASTA LA 01.00H",
     "date": "2025-12-18T00:00:00.000",
     "start_time": "2025-12-18T23:00:00.000",
     "end_time": "2025-12-19T06:00:00.000",
     "artists": "",
     "venue": "Inklub Madrid",
     "url": "/events/2317117",
-    "attending": "2",
+    "attending": "3",
     "image": ""
   },
   {
-    "name": "Hardbrutality: Special opening",
+    "name": "ILIADA CLUB + Miguel Rivas + CHARLOTTE LYONN + RENDELL + SVS",
     "date": "2025-12-18T00:00:00.000",
     "start_time": "2025-12-18T23:59:00.000",
-    "end_time": "2025-12-19T05:30:00.000",
-    "artists": "",
-    "venue": "Sala Cocó",
-    "url": "/events/2318970",
-    "attending": "2",
+    "end_time": "2025-12-19T06:00:00.000",
+    "artists": "Miguel Rivas",
+    "venue": "Sala Pirandelo",
+    "url": "/events/2317129",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "La Luz feat. DJ SOSA RD",
+    "date": "2025-12-18T00:00:00.000",
+    "start_time": "2025-12-18T23:00:00.000",
+    "end_time": "2025-12-19T06:00:00.000",
+    "artists": "DJ SOSA RD, Gazzi",
+    "venue": "Club Malasaña",
+    "url": "/events/2319064",
+    "attending": "1",
     "image": ""
   },
   {
@@ -1023,36 +165,25 @@
     "image": ""
   },
   {
-    "name": "ILIADA CLUB + Miguel Rivas + CHARLOTTE LYONN + RENDELL + SVS",
+    "name": "SOMØX invites Plus One Collective",
     "date": "2025-12-18T00:00:00.000",
-    "start_time": "2025-12-18T23:59:00.000",
-    "end_time": "2025-12-19T06:00:00.000",
-    "artists": "Miguel Rivas",
-    "venue": "Sala Pirandelo",
-    "url": "/events/2317129",
+    "start_time": "2025-12-18T20:00:00.000",
+    "end_time": "2025-12-18T23:59:00.000",
+    "artists": "Kevin Matto, Ali-Az, Systematic Method",
+    "venue": "Sala Siroco",
+    "url": "/events/2322817",
     "attending": "1",
     "image": ""
   },
   {
-    "name": "La Luz feat. DJ SOSA RD",
-    "date": "2025-12-18T00:00:00.000",
-    "start_time": "2025-12-18T23:00:00.000",
-    "end_time": "2025-12-19T06:00:00.000",
-    "artists": "DJ SOSA RD, Gazzi",
-    "venue": "Club Malasaña",
-    "url": "/events/2319064",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "BPM: Rattlesnakke +  La Cachetona + Kwistian",
-    "date": "2025-12-18T00:00:00.000",
-    "start_time": "2025-12-18T23:59:00.000",
-    "end_time": "2025-12-19T05:30:00.000",
-    "artists": "Rattlesnakke, La Cachetona",
-    "venue": "Skin",
-    "url": "/events/2319955",
-    "attending": "0",
+    "name": "H4T3R 3 ANIVERSARIO WAREHOUSE RAVE FIIF w 20 ARTISTAS - HARDTECHNO, MAKINA, INDUSTRIAL, SCHRANZ",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T12:00:00.000",
+    "artists": "",
+    "venue": "TBA - Secret Location - MADRID - VALLECAS",
+    "url": "/events/2321281",
+    "attending": "667",
     "image": ""
   },
   {
@@ -1063,18 +194,7 @@
     "artists": "Raul Parra, BUFAINE",
     "venue": "Sala Muv",
     "url": "/events/2309804",
-    "attending": "96",
-    "image": ""
-  },
-  {
-    "name": "Kambalache · Barem · Alexis mayer · Guidomik · Mati Amoretti",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T23:59:00.000",
-    "end_time": "2025-12-20T06:00:00.000",
-    "artists": "Barem, Alexis mayer, Guidomik, Mati Amoretti",
-    "venue": "berlinClub",
-    "url": "/events/2317611",
-    "attending": "41",
+    "attending": "164",
     "image": ""
   },
   {
@@ -1085,18 +205,18 @@
     "artists": "ISA (ES), Pushmann, Hd Substance, bendite",
     "venue": "TBA - Club 110",
     "url": "/events/2307179",
-    "attending": "40",
+    "attending": "52",
     "image": ""
   },
   {
-    "name": "Calleja + Tono + Pucho + Jose Redondo - Incunables [Old Music 1985-1995]",
+    "name": "Kambalache · Barem · Alexis mayer · Guidomik · Mati Amoretti",
     "date": "2025-12-19T00:00:00.000",
     "start_time": "2025-12-19T23:59:00.000",
     "end_time": "2025-12-20T06:00:00.000",
-    "artists": "",
-    "venue": "Specka",
-    "url": "/events/2294464",
-    "attending": "30",
+    "artists": "Barem, Alexis mayer, Guidomik, Mati Amoretti",
+    "venue": "berlinClub",
+    "url": "/events/2317611",
+    "attending": "43",
     "image": ""
   },
   {
@@ -1107,7 +227,18 @@
     "artists": "Birds of Mind",
     "venue": "Lula Club",
     "url": "/events/2279720",
-    "attending": "27",
+    "attending": "42",
+    "image": ""
+  },
+  {
+    "name": "Calleja + Tono + Pucho + Jose Redondo - Incunables [Old Music 1985-1995]",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "",
+    "venue": "Specka",
+    "url": "/events/2294464",
+    "attending": "31",
     "image": ""
   },
   {
@@ -1118,51 +249,7 @@
     "artists": "Le Nomad, Gato",
     "venue": "Gilda Club",
     "url": "/events/2316031",
-    "attending": "18",
-    "image": ""
-  },
-  {
-    "name": "CDVR with Melody",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T23:59:00.000",
-    "end_time": "2025-12-20T06:00:00.000",
-    "artists": "Melody RA+RE, Luska, Conio, Marina Antih",
-    "venue": "Cadavra",
-    "url": "/events/2280831",
-    "attending": "13",
-    "image": ""
-  },
-  {
-    "name": "TOSCANO AKA TSC WANTED y DRISKET '0,8 I Specka Live",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T19:30:00.000",
-    "end_time": "2025-12-19T23:00:00.000",
-    "artists": "EKEL",
-    "venue": "Specka",
-    "url": "/events/2317349",
-    "attending": "8",
-    "image": ""
-  },
-  {
-    "name": "AFTER SIESTA: Ina Housez, Only Cash, Honey Bastard, JaviRec",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T18:00:00.000",
-    "end_time": "2025-12-19T23:59:00.000",
-    "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2312087",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Skin ALPHA: KLEYVER + NETN + TOM CHIESA",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T23:59:00.000",
-    "end_time": "2025-12-20T06:00:00.000",
-    "artists": "TOM CHIESA",
-    "venue": "Skin",
-    "url": "/events/2315316",
-    "attending": "1",
+    "attending": "22",
     "image": ""
   },
   {
@@ -1173,7 +260,73 @@
     "artists": "",
     "venue": "Next Clubbing",
     "url": "/events/2315816",
-    "attending": "0",
+    "attending": "19",
+    "image": ""
+  },
+  {
+    "name": "TOSCANO AKA TSC WANTED y DRISKET '0,8 I Specka Live",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T19:30:00.000",
+    "end_time": "2025-12-19T23:00:00.000",
+    "artists": "EKEL",
+    "venue": "Specka",
+    "url": "/events/2317349",
+    "attending": "15",
+    "image": ""
+  },
+  {
+    "name": "CDVR with Melody",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "Melody RA+RE, Luska, Conio, Marina Antih",
+    "venue": "Cadavra",
+    "url": "/events/2280831",
+    "attending": "14",
+    "image": ""
+  },
+  {
+    "name": "AfterSiesta: Ina Housez, Only Cash, Honey Bastard, JaviRec",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T18:00:00.000",
+    "end_time": "2025-12-19T23:59:00.000",
+    "artists": "",
+    "venue": "EL SÓTANO",
+    "url": "/events/2312087",
+    "attending": "17",
+    "image": ""
+  },
+  {
+    "name": "KOMMUNE X INNATA",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "Raisa, findPeaks, WO KEM",
+    "venue": "Hangar48 Club",
+    "url": "/events/2322941",
+    "attending": "11",
+    "image": ""
+  },
+  {
+    "name": "HOUSENATION: Fantastic Man, Gaskón & Nebari",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "Fantastic Man, Gaskón, Nebari",
+    "venue": "EL SÓTANO",
+    "url": "/events/2283280",
+    "attending": "6",
+    "image": ""
+  },
+  {
+    "name": "Skin ALPHA: KLEYVER + NETN + TOM CHIESA",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "TOM CHIESA",
+    "venue": "Skin",
+    "url": "/events/2315316",
+    "attending": "3",
     "image": ""
   },
   {
@@ -1184,18 +337,7 @@
     "artists": "Anso, Xorpel, DJ F (ES), EMIR-B",
     "venue": "TBA",
     "url": "/events/2305833",
-    "attending": "51",
-    "image": ""
-  },
-  {
-    "name": "Counterflow Sessions x Under Bridge",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T23:59:00.000",
-    "end_time": "2025-12-20T06:00:00.000",
-    "artists": "Gleezy, Jon Lugaritz",
-    "venue": "Under Bridge Madrid",
-    "url": "/events/2316466",
-    "attending": "30",
+    "attending": "80",
     "image": ""
   },
   {
@@ -1206,40 +348,18 @@
     "artists": "Topanga Kiddo, Gee Contreras, El cuerpo del Disco",
     "venue": "Sala Villanos",
     "url": "/events/2313642",
-    "attending": "22",
+    "attending": "60",
     "image": ""
   },
   {
-    "name": "3º Aniv Squalo Italo Disco Club: Italoconnection: Fred Ventura &  Paolo Gozzetti Live + Wera",
+    "name": "Counterflow Sessions x Under Bridge",
     "date": "2025-12-19T00:00:00.000",
     "start_time": "2025-12-19T23:59:00.000",
     "end_time": "2025-12-20T06:00:00.000",
-    "artists": "Italoconnection, Wera, Fer Xplosion",
-    "venue": "Sala Siroco",
-    "url": "/events/2295142",
-    "attending": "18",
-    "image": ""
-  },
-  {
-    "name": "bose. X Radial (Cosmjn)",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T23:59:00.000",
-    "end_time": "2025-12-20T06:00:00.000",
-    "artists": "Cosmjn, DËKYR, Grittrip",
-    "venue": "Goya Social Club",
-    "url": "/events/2303026",
-    "attending": "17",
-    "image": ""
-  },
-  {
-    "name": "Pulser / 12 WAVESOUND - CARLOS GILA - RVDMNTL  - ISGANG - EMZOO",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T23:59:00.000",
-    "end_time": "2025-12-20T10:00:00.000",
-    "artists": "",
-    "venue": "X Private Club",
-    "url": "/events/2318795",
-    "attending": "8",
+    "artists": "Gleezy, Jon Lugaritz",
+    "venue": "Under Bridge Madrid",
+    "url": "/events/2316466",
+    "attending": "37",
     "image": ""
   },
   {
@@ -1250,18 +370,51 @@
     "artists": "",
     "venue": "Sala ART",
     "url": "/events/2303629",
-    "attending": "6",
+    "attending": "32",
     "image": ""
   },
   {
-    "name": "NONAME: 19 DIC",
+    "name": "bose. X Radial (Cosmjn)",
     "date": "2025-12-19T00:00:00.000",
     "start_time": "2025-12-19T23:59:00.000",
     "end_time": "2025-12-20T06:00:00.000",
+    "artists": "Cosmjn, DËKYR, Grittrip",
+    "venue": "Goya Social Club",
+    "url": "/events/2303026",
+    "attending": "23",
+    "image": ""
+  },
+  {
+    "name": "3º Aniv Squalo Italo Disco Club: Italoconnection: Fred Ventura &  Paolo Gozzetti Live + Wera",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "Italoconnection, Wera, Fer Xplosion",
+    "venue": "Sala Siroco",
+    "url": "/events/2295142",
+    "attending": "22",
+    "image": ""
+  },
+  {
+    "name": "Pulser / 12 WAVESOUND - CARLOS GILA - RVDMNTL  - ISGANG - EMZOO",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T10:00:00.000",
     "artists": "",
+    "venue": "X Private Club",
+    "url": "/events/2318795",
+    "attending": "10",
+    "image": ""
+  },
+  {
+    "name": "NONAME: ÁLVARO MEDINA",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:00:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "Alvaro Medina, Chris Figueroa",
     "venue": "Tho Club",
     "url": "/events/2298355",
-    "attending": "3",
+    "attending": "4",
     "image": ""
   },
   {
@@ -1276,17 +429,6 @@
     "image": ""
   },
   {
-    "name": "H4T3R 3 ANIVERSARIO WAREHOUSE RAVE FIIℲ with 20 ARTISTAS",
-    "date": "2025-12-19T00:00:00.000",
-    "start_time": "2025-12-19T23:59:00.000",
-    "end_time": "2025-12-20T12:00:00.000",
-    "artists": "",
-    "venue": "TBA - Secret Location - MADRID - VALLECAS",
-    "url": "/events/2321281",
-    "attending": "2",
-    "image": ""
-  },
-  {
     "name": "BLASÉ RAW feat. Teki Latex + Inés Isla + TTRRAACCAA + Keiranai",
     "date": "2025-12-19T00:00:00.000",
     "start_time": "2025-12-19T23:00:00.000",
@@ -1294,7 +436,29 @@
     "artists": "Teki Latex, TTRRAACCAA, Keiranai",
     "venue": "Core",
     "url": "/events/2320975",
-    "attending": "1",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Blasé.RAW feat. Teki Latex, Inés Isla, TTRRAACCAA, Keiranai",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "Teki Latex, ines isla, TTRRAACCAA, Keiranai",
+    "venue": "Core",
+    "url": "/events/2325747",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "MINITEL",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T06:00:00.000",
+    "artists": "Vulker",
+    "venue": "Republik Club",
+    "url": "/events/2326389",
+    "attending": "4",
     "image": ""
   },
   {
@@ -1309,6 +473,17 @@
     "image": ""
   },
   {
+    "name": "Lecouple Sound Dj set",
+    "date": "2025-12-19T00:00:00.000",
+    "start_time": "2025-12-19T23:59:00.000",
+    "end_time": "2025-12-20T03:30:00.000",
+    "artists": "Lecouple Sound",
+    "venue": "Tempo",
+    "url": "/events/2322837",
+    "attending": "0",
+    "image": ""
+  },
+  {
     "name": "CRISTIAN VARELA ALL NIGHT LONG",
     "date": "2025-12-20T00:00:00.000",
     "start_time": "2025-12-20T23:59:00.000",
@@ -1316,7 +491,7 @@
     "artists": "Cristian Varela",
     "venue": "LAB theCLUB",
     "url": "/events/2261782",
-    "attending": "110",
+    "attending": "150",
     "image": ""
   },
   {
@@ -1327,7 +502,7 @@
     "artists": "",
     "venue": "LAB theCLUB",
     "url": "/events/2261764",
-    "attending": "41",
+    "attending": "50",
     "image": ""
   },
   {
@@ -1338,7 +513,7 @@
     "artists": "",
     "venue": "Specka",
     "url": "/events/2303141",
-    "attending": "29",
+    "attending": "35",
     "image": ""
   },
   {
@@ -1349,6 +524,17 @@
     "artists": "Depaart",
     "venue": "High Club Room",
     "url": "/events/2281951",
+    "attending": "37",
+    "image": ""
+  },
+  {
+    "name": "Roots Closing Party 2025",
+    "date": "2025-12-20T00:00:00.000",
+    "start_time": "2025-12-20T23:59:00.000",
+    "end_time": "2025-12-21T06:00:00.000",
+    "artists": "Foie Gras, Le Nomad, DLOU, Rodrigue Darbon",
+    "venue": "Lula Club",
+    "url": "/events/2304184",
     "attending": "29",
     "image": ""
   },
@@ -1360,7 +546,7 @@
     "artists": "Mia Cecille, Daniel Kelsan, DJ Gostoso",
     "venue": "Cadavra",
     "url": "/events/2307189",
-    "attending": "26",
+    "attending": "34",
     "image": ""
   },
   {
@@ -1371,40 +557,18 @@
     "artists": "",
     "venue": "EL SÓTANO",
     "url": "/events/2261421",
-    "attending": "24",
+    "attending": "30",
     "image": ""
   },
   {
-    "name": "AVISPERO - TARDEO: Fernanda Brightside, Anita Fermosel, Niko & Sergio Lekiub, Carpantis",
+    "name": "Tombolo x Radio Relativa",
     "date": "2025-12-20T00:00:00.000",
-    "start_time": "2025-12-20T18:00:00.000",
-    "end_time": "2025-12-20T23:59:00.000",
+    "start_time": "2025-12-20T23:59:00.000",
+    "end_time": "2025-12-21T08:00:00.000",
     "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2311970",
-    "attending": "12",
-    "image": ""
-  },
-  {
-    "name": "Gilda Club",
-    "date": "2025-12-20T00:00:00.000",
-    "start_time": "2025-12-20T23:59:00.000",
-    "end_time": "2025-12-21T06:00:00.000",
-    "artists": "Clap Kent, Anacalypto, DIGUES, Glossy Mario",
-    "venue": "Gilda Club",
-    "url": "/events/2316035",
-    "attending": "11",
-    "image": ""
-  },
-  {
-    "name": "Roots Closing Party 2025",
-    "date": "2025-12-20T00:00:00.000",
-    "start_time": "2025-12-20T23:59:00.000",
-    "end_time": "2025-12-21T06:00:00.000",
-    "artists": "Foie Gras, Le Nomad, DLOU, Rodrigue Darbon",
-    "venue": "Lula Club",
-    "url": "/events/2304184",
-    "attending": "10",
+    "venue": "TBA - 110",
+    "url": "/events/2252771",
+    "attending": "28",
     "image": ""
   },
   {
@@ -1415,7 +579,29 @@
     "artists": "Javi Garza, Starni",
     "venue": "Hangar48 Club",
     "url": "/events/2309882",
-    "attending": "9",
+    "attending": "14",
+    "image": ""
+  },
+  {
+    "name": "AVISPERO - TARDEO: Fernanda Brightside, Anita Fermosel, Niko & Sergio Lekiub, Carpantis",
+    "date": "2025-12-20T00:00:00.000",
+    "start_time": "2025-12-20T18:00:00.000",
+    "end_time": "2025-12-20T23:59:00.000",
+    "artists": "",
+    "venue": "EL SÓTANO",
+    "url": "/events/2311970",
+    "attending": "13",
+    "image": ""
+  },
+  {
+    "name": "Gilda Club",
+    "date": "2025-12-20T00:00:00.000",
+    "start_time": "2025-12-20T23:59:00.000",
+    "end_time": "2025-12-21T06:00:00.000",
+    "artists": "Clap Kent, Anacalypto, DIGUES, Glossy Mario",
+    "venue": "Gilda Club",
+    "url": "/events/2316035",
+    "attending": "13",
     "image": ""
   },
   {
@@ -1426,7 +612,7 @@
     "artists": "LAMMER, Gerardo Niva, SAIDAH",
     "venue": "Mondo",
     "url": "/events/2282287",
-    "attending": "6",
+    "attending": "9",
     "image": ""
   },
   {
@@ -1437,18 +623,18 @@
     "artists": "Xpansul",
     "venue": "berlinClub",
     "url": "/events/2317645",
-    "attending": "1",
+    "attending": "5",
     "image": ""
   },
   {
-    "name": "CamelPhat Experience - Zamna Madrid",
+    "name": "Skin SPANK",
     "date": "2025-12-20T00:00:00.000",
     "start_time": "2025-12-20T23:59:00.000",
-    "end_time": "2025-12-21T07:30:00.000",
-    "artists": "CamelPhat, Mind Against, Âme, Jimi Jules, Patrice Bäumel, Julya Karma",
-    "venue": "IFEMA",
-    "url": "/events/2265884",
-    "attending": "157",
+    "end_time": "2025-12-21T06:00:00.000",
+    "artists": "Atrâm, clarissa dalila (2)",
+    "venue": "Skin",
+    "url": "/events/2322039",
+    "attending": "1",
     "image": ""
   },
   {
@@ -1459,29 +645,18 @@
     "artists": "Carlita, Mau P",
     "venue": "The Bassement",
     "url": "/events/2297648",
-    "attending": "157",
+    "attending": "214",
     "image": ""
   },
   {
-    "name": "Michael Mayer [Kompakt] - Halley Club ENTRADAS DISPONIBLES EN PUERTA",
+    "name": "CamelPhat Experience - Zamna Madrid",
     "date": "2025-12-20T00:00:00.000",
     "start_time": "2025-12-20T23:59:00.000",
-    "end_time": "2025-12-21T06:00:00.000",
-    "artists": "Michael Mayer, David Ponziano",
-    "venue": "Specka",
-    "url": "/events/2250969",
-    "attending": "75",
-    "image": ""
-  },
-  {
-    "name": "Iboga Rave Psy-Trance Edition",
-    "date": "2025-12-20T00:00:00.000",
-    "start_time": "2025-12-20T23:00:00.000",
-    "end_time": "2025-12-21T06:00:00.000",
-    "artists": "Mandragora",
-    "venue": "La Riviera",
-    "url": "/events/2106386",
-    "attending": "39",
+    "end_time": "2025-12-21T07:30:00.000",
+    "artists": "CamelPhat, Mind Against, Âme, Jimi Jules, Patrice Bäumel, Julya Karma",
+    "venue": "IFEMA",
+    "url": "/events/2265884",
+    "attending": "173",
     "image": ""
   },
   {
@@ -1492,51 +667,29 @@
     "artists": "Julian Muller",
     "venue": "Sala ART",
     "url": "/events/2306741",
-    "attending": "34",
+    "attending": "98",
     "image": ""
   },
   {
-    "name": "Jodita Techno x Under Bridge",
+    "name": "Michael Mayer [Kompakt] - Halley Club ENTRADAS DISPONIBLES EN PUERTA",
     "date": "2025-12-20T00:00:00.000",
     "start_time": "2025-12-20T23:59:00.000",
     "end_time": "2025-12-21T06:00:00.000",
-    "artists": "FedeFink, BlackChilli",
-    "venue": "Under Bridge Madrid",
-    "url": "/events/2320221",
-    "attending": "18",
+    "artists": "Michael Mayer, David Ponziano",
+    "venue": "Specka",
+    "url": "/events/2250969",
+    "attending": "84",
     "image": ""
   },
   {
-    "name": "OLIVER HELDENS",
-    "date": "2025-12-20T00:00:00.000",
-    "start_time": "2025-12-20T17:00:00.000",
-    "end_time": "2025-12-21T00:30:00.000",
-    "artists": "",
-    "venue": "Las Ventas",
-    "url": "/events/2287352",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "Barro Showcase",
+    "name": "BassRoom (techno) - Entradas free hasta 1:30",
     "date": "2025-12-20T00:00:00.000",
     "start_time": "2025-12-20T23:59:00.000",
-    "end_time": "2025-12-21T16:00:00.000",
-    "artists": "Dan Böhler, Nöle, DigitalKaos, MSKS (ES)",
-    "venue": "Lasociaciøn",
-    "url": "/events/2309806",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "G-Point feat. Peach + Mena G",
-    "date": "2025-12-20T00:00:00.000",
-    "start_time": "2025-12-20T23:00:00.000",
     "end_time": "2025-12-21T06:00:00.000",
-    "artists": "Peach, Mena G",
-    "venue": "Core",
-    "url": "/events/2320980",
-    "attending": "2",
+    "artists": "Sora Éke",
+    "venue": "Sala El Sol",
+    "url": "/events/2321145",
+    "attending": "73",
     "image": ""
   },
   {
@@ -1547,7 +700,62 @@
     "artists": "Inigo Kennedy, BOUNCE BRIGADE",
     "venue": "Next Clubbing",
     "url": "/events/2320562",
-    "attending": "2",
+    "attending": "57",
+    "image": ""
+  },
+  {
+    "name": "Iboga Rave Psy-Trance Edition",
+    "date": "2025-12-20T00:00:00.000",
+    "start_time": "2025-12-20T23:00:00.000",
+    "end_time": "2025-12-21T06:00:00.000",
+    "artists": "Mandragora",
+    "venue": "La Riviera",
+    "url": "/events/2106386",
+    "attending": "41",
+    "image": ""
+  },
+  {
+    "name": "Jodita Techno x Under Bridge",
+    "date": "2025-12-20T00:00:00.000",
+    "start_time": "2025-12-20T23:59:00.000",
+    "end_time": "2025-12-21T06:00:00.000",
+    "artists": "FedeFink, BlackChilli",
+    "venue": "Under Bridge Madrid",
+    "url": "/events/2320221",
+    "attending": "38",
+    "image": ""
+  },
+  {
+    "name": "Barro Showcase",
+    "date": "2025-12-20T00:00:00.000",
+    "start_time": "2025-12-20T23:59:00.000",
+    "end_time": "2025-12-21T16:00:00.000",
+    "artists": "Dan Böhler, Nöle, DigitalKaos, MSKS (ES)",
+    "venue": "Lasociaciøn",
+    "url": "/events/2309806",
+    "attending": "13",
+    "image": ""
+  },
+  {
+    "name": "OLIVER HELDENS",
+    "date": "2025-12-20T00:00:00.000",
+    "start_time": "2025-12-20T17:00:00.000",
+    "end_time": "2025-12-21T00:30:00.000",
+    "artists": "",
+    "venue": "Las Ventas",
+    "url": "/events/2287352",
+    "attending": "8",
+    "image": ""
+  },
+  {
+    "name": "G-Point feat. Peach + Mena G",
+    "date": "2025-12-20T00:00:00.000",
+    "start_time": "2025-12-20T23:00:00.000",
+    "end_time": "2025-12-21T06:00:00.000",
+    "artists": "Peach, Mena G",
+    "venue": "Core",
+    "url": "/events/2320980",
+    "attending": "6",
     "image": ""
   },
   {
@@ -1562,13 +770,13 @@
     "image": ""
   },
   {
-    "name": "BassRoom (techno) - Entradas free hasta 1:30",
+    "name": "Masters of Hardcore España",
     "date": "2025-12-20T00:00:00.000",
-    "start_time": "2025-12-20T23:59:00.000",
-    "end_time": "2025-12-21T06:00:00.000",
-    "artists": "Sora Éke",
-    "venue": "Sala El Sol",
-    "url": "/events/2321145",
+    "start_time": "2025-12-20T18:00:00.000",
+    "end_time": "2025-12-21T07:00:00.000",
+    "artists": "Angerfist, Anime, Tha Playah (NL), Drokz, Korsakoff, Deadly Guns, Ophidian",
+    "venue": "Fabrik",
+    "url": "/events/2322828",
     "attending": "1",
     "image": ""
   },
@@ -1588,21 +796,10 @@
     "date": "2025-12-20T00:00:00.000",
     "start_time": "2025-12-20T23:00:00.000",
     "end_time": "2025-12-21T06:00:00.000",
-    "artists": "",
+    "artists": "Candy Cox, SARA KRIN",
     "venue": "TBA - VRS Techno - Villafranca de los Caballeros (Toledo)",
     "url": "/events/2317382",
     "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "AXIOM & FRIENDS: Yordanbass, Súper Pä, Ponce, Bigot3x",
-    "date": "2025-12-21T00:00:00.000",
-    "start_time": "2025-12-21T18:00:00.000",
-    "end_time": "2025-12-21T23:59:00.000",
-    "artists": "Súper Pä",
-    "venue": "EL SÓTANO",
-    "url": "/events/2310858",
-    "attending": "2",
     "image": ""
   },
   {
@@ -1613,7 +810,18 @@
     "artists": "Trenzark",
     "venue": "EL SÓTANO",
     "url": "/events/2312111",
-    "attending": "2",
+    "attending": "9",
+    "image": ""
+  },
+  {
+    "name": "AXIOM & FRIENDS: Yordanbass, Súper Pä, Ponce, Bigot3x",
+    "date": "2025-12-21T00:00:00.000",
+    "start_time": "2025-12-21T18:00:00.000",
+    "end_time": "2025-12-21T23:59:00.000",
+    "artists": "Súper Pä",
+    "venue": "EL SÓTANO",
+    "url": "/events/2310858",
+    "attending": "3",
     "image": ""
   },
   {
@@ -1628,14 +836,14 @@
     "image": ""
   },
   {
-    "name": "Elements Cave - Nochebuena",
+    "name": "Elements Cave - Nochebuena: Luca Maier + CHEFFF + Sofx + Nigabba",
     "date": "2025-12-24T00:00:00.000",
     "start_time": "2025-12-24T23:59:00.000",
     "end_time": "2025-12-25T06:00:00.000",
-    "artists": "",
+    "artists": "Luca Maier, Nigabba, CHEFFF",
     "venue": "Next Clubbing",
     "url": "/events/2279997",
-    "attending": "37",
+    "attending": "104",
     "image": ""
   },
   {
@@ -1646,7 +854,7 @@
     "artists": "Daria Kolosova, AEREA, VIVAY, Anna Jevills",
     "venue": "Mondo",
     "url": "/events/2282333",
-    "attending": "36",
+    "attending": "42",
     "image": ""
   },
   {
@@ -1661,17 +869,6 @@
     "image": ""
   },
   {
-    "name": "Triffulca NocheBuena - Specka Club",
-    "date": "2025-12-24T00:00:00.000",
-    "start_time": "2025-12-24T01:00:00.000",
-    "end_time": "2025-12-25T08:00:00.000",
-    "artists": "ADRI.G, FIGUREX",
-    "venue": "Specka",
-    "url": "/events/2308142",
-    "attending": "2",
-    "image": ""
-  },
-  {
     "name": "NOCHEBUENA ((Radical)) 2025",
     "date": "2025-12-24T00:00:00.000",
     "start_time": "2025-12-24T00:00:00.000",
@@ -1679,7 +876,29 @@
     "artists": "",
     "venue": "LAB theCLUB",
     "url": "/events/2261790",
+    "attending": "14",
+    "image": ""
+  },
+  {
+    "name": "Triffulca NocheBuena - Specka Club",
+    "date": "2025-12-24T00:00:00.000",
+    "start_time": "2025-12-24T01:00:00.000",
+    "end_time": "2025-12-25T08:00:00.000",
+    "artists": "ADRI.G, FIGUREX",
+    "venue": "Specka",
+    "url": "/events/2308142",
     "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Skin: SWEETNESS CHRISTMAS",
+    "date": "2025-12-24T00:00:00.000",
+    "start_time": "2025-12-24T00:30:00.000",
+    "end_time": "2025-12-25T08:00:00.000",
+    "artists": "",
+    "venue": "Skin",
+    "url": "/events/2324986",
+    "attending": "0",
     "image": ""
   },
   {
@@ -1690,7 +909,18 @@
     "artists": "Lewis Fautzi, Oscar Blue, Yiye, Redondoo, K1000o",
     "venue": "Lasociaciøn",
     "url": "/events/2275994",
-    "attending": "61",
+    "attending": "66",
+    "image": ""
+  },
+  {
+    "name": "NITRO NOCHEBUENA: Costa B2B Jairoskun + KSN + Tasuik B2B Nymann + Many more DJs",
+    "date": "2025-12-24T00:00:00.000",
+    "start_time": "2025-12-24T23:59:00.000",
+    "end_time": "2025-12-25T09:00:00.000",
+    "artists": "JRG, M3LO, Møstroh, Venus de Milo, Tasuik",
+    "venue": "TBA - ENTITY powered by Void Acoustics",
+    "url": "/events/2321818",
+    "attending": "25",
     "image": ""
   },
   {
@@ -1701,7 +931,18 @@
     "artists": "Joey Daniel, Abdon, DLOU",
     "venue": "The Bassement",
     "url": "/events/2296384",
-    "attending": "7",
+    "attending": "8",
+    "image": ""
+  },
+  {
+    "name": "No Name",
+    "date": "2025-12-24T00:00:00.000",
+    "start_time": "2025-12-24T23:59:00.000",
+    "end_time": "2025-12-25T08:00:00.000",
+    "artists": "jose fajardo, Chris Figueroa",
+    "venue": "Tho Club",
+    "url": "/events/2310189",
+    "attending": "4",
     "image": ""
   },
   {
@@ -1716,17 +957,6 @@
     "image": ""
   },
   {
-    "name": "No Name",
-    "date": "2025-12-24T00:00:00.000",
-    "start_time": "2025-12-24T23:59:00.000",
-    "end_time": "2025-12-25T08:00:00.000",
-    "artists": "jose fajardo, Chris Figueroa",
-    "venue": "Tho Club",
-    "url": "/events/2310189",
-    "attending": "3",
-    "image": ""
-  },
-  {
     "name": "Space Christmas w/ Franky Rizardo",
     "date": "2025-12-25T00:00:00.000",
     "start_time": "2025-12-25T23:00:00.000",
@@ -1734,7 +964,7 @@
     "artists": "Franky Rizardo",
     "venue": "LAB theCLUB",
     "url": "/events/2254127",
-    "attending": "123",
+    "attending": "148",
     "image": ""
   },
   {
@@ -1745,18 +975,7 @@
     "artists": "Pastis & Buenri, Alba Franch, GALGØ, NARCX",
     "venue": "Terraza Jowke",
     "url": "/events/2282337",
-    "attending": "30",
-    "image": ""
-  },
-  {
-    "name": "AFTERPARTY: UNIVERSO MAKINA DJ'S / Gerardo Niva",
-    "date": "2025-12-25T00:00:00.000",
-    "start_time": "2025-12-25T23:59:00.000",
-    "end_time": "2025-12-26T06:00:00.000",
-    "artists": "Gerardo Niva",
-    "venue": "Mondo",
-    "url": "/events/2282339",
-    "attending": "8",
+    "attending": "32",
     "image": ""
   },
   {
@@ -1767,7 +986,18 @@
     "artists": "Unkle Fon, Zagal, Killo",
     "venue": "Cadavra",
     "url": "/events/2308321",
-    "attending": "4",
+    "attending": "9",
+    "image": ""
+  },
+  {
+    "name": "AFTERPARTY: UNIVERSO MAKINA DJ'S / Gerardo Niva",
+    "date": "2025-12-25T00:00:00.000",
+    "start_time": "2025-12-25T23:59:00.000",
+    "end_time": "2025-12-26T06:00:00.000",
+    "artists": "Gerardo Niva",
+    "venue": "Mondo",
+    "url": "/events/2282339",
+    "attending": "7",
     "image": ""
   },
   {
@@ -1778,7 +1008,7 @@
     "artists": "DJ Mois, DJ MBA",
     "venue": "EL SÓTANO",
     "url": "/events/2311998",
-    "attending": "1",
+    "attending": "2",
     "image": ""
   },
   {
@@ -1789,18 +1019,18 @@
     "artists": "BlackChilli, Modesto",
     "venue": "berlinClub",
     "url": "/events/2319395",
-    "attending": "0",
+    "attending": "1",
     "image": ""
   },
   {
-    "name": "Navidad con EL GRECO",
+    "name": "Total sound - hardcore sets special christmas edition",
     "date": "2025-12-25T00:00:00.000",
-    "start_time": "2025-12-25T22:00:00.000",
-    "end_time": "2025-12-25T23:59:00.000",
-    "artists": "",
+    "start_time": "2025-12-25T23:59:00.000",
+    "end_time": "2025-12-26T06:00:00.000",
+    "artists": "Flakka",
     "venue": "Guss Club",
-    "url": "/events/2301250",
-    "attending": "1",
+    "url": "/events/2322610",
+    "attending": "127",
     "image": ""
   },
   {
@@ -1811,6 +1041,17 @@
     "artists": "Miguel Rivas",
     "venue": "Sala Pirandelo",
     "url": "/events/2317134",
+    "attending": "8",
+    "image": ""
+  },
+  {
+    "name": "Navidad con EL GRECO",
+    "date": "2025-12-25T00:00:00.000",
+    "start_time": "2025-12-25T22:00:00.000",
+    "end_time": "2025-12-25T23:59:00.000",
+    "artists": "",
+    "venue": "Guss Club",
+    "url": "/events/2301250",
     "attending": "1",
     "image": ""
   },
@@ -1833,7 +1074,7 @@
     "artists": "SHDW, Anika Kunst, Stojche, SAINT SINNER",
     "venue": "LAB theCLUB",
     "url": "/events/2244604",
-    "attending": "63",
+    "attending": "97",
     "image": ""
   },
   {
@@ -1844,7 +1085,7 @@
     "artists": "Pastis & Buenri, Alba Franch, GALGØ, NARCX",
     "venue": "Terraza Jowke",
     "url": "/events/2282337",
-    "attending": "30",
+    "attending": "32",
     "image": ""
   },
   {
@@ -1866,7 +1107,18 @@
     "artists": "",
     "venue": "Hangar48 Club",
     "url": "/events/2308134",
-    "attending": "11",
+    "attending": "25",
+    "image": ""
+  },
+  {
+    "name": "PHASE: 6 YEARS DANCING (EXTENDED)",
+    "date": "2025-12-26T00:00:00.000",
+    "start_time": "2025-12-26T23:00:00.000",
+    "end_time": "2025-12-27T23:59:00.000",
+    "artists": "",
+    "venue": "TBA - 110",
+    "url": "/events/2252773",
+    "attending": "23",
     "image": ""
   },
   {
@@ -1877,7 +1129,29 @@
     "artists": "Hadex (2), Yins, Bradley (Le Piscine)",
     "venue": "EL SÓTANO",
     "url": "/events/2313028",
-    "attending": "7",
+    "attending": "9",
+    "image": ""
+  },
+  {
+    "name": "JP Candela, Camet",
+    "date": "2025-12-26T00:00:00.000",
+    "start_time": "2025-12-26T23:59:00.000",
+    "end_time": "2025-12-27T06:00:00.000",
+    "artists": "JP Candela",
+    "venue": "Lula Club",
+    "url": "/events/2304187",
+    "attending": "6",
+    "image": ""
+  },
+  {
+    "name": "KELLER HARD CLUB 33: CHARLIE SPARSK [3H SET] & SORA EKE",
+    "date": "2025-12-26T00:00:00.000",
+    "start_time": "2025-12-26T23:59:00.000",
+    "end_time": "2025-12-27T06:00:00.000",
+    "artists": "Charlie Sparks, Sora Éke",
+    "venue": "The Bassement",
+    "url": "/events/2320290",
+    "attending": "6",
     "image": ""
   },
   {
@@ -1899,17 +1173,17 @@
     "artists": "Piem, Eric Costa",
     "venue": "berlinClub",
     "url": "/events/2317649",
-    "attending": "3",
+    "attending": "4",
     "image": ""
   },
   {
-    "name": "JP Candela, Camet",
+    "name": "Jarana Tech Club B-day -Winter Conference",
     "date": "2025-12-26T00:00:00.000",
     "start_time": "2025-12-26T23:59:00.000",
     "end_time": "2025-12-27T06:00:00.000",
-    "artists": "JP Candela",
-    "venue": "Lula Club",
-    "url": "/events/2304187",
+    "artists": "",
+    "venue": "Specka",
+    "url": "/events/2310260",
     "attending": "2",
     "image": ""
   },
@@ -1925,39 +1199,6 @@
     "image": ""
   },
   {
-    "name": "KELLER HARD CLUB 33: CHARLIE SPARSK [3H SET] & SORA EKE",
-    "date": "2025-12-26T00:00:00.000",
-    "start_time": "2025-12-26T23:59:00.000",
-    "end_time": "2025-12-27T06:00:00.000",
-    "artists": "Charlie Sparks, Sora Éke",
-    "venue": "The Bassement",
-    "url": "/events/2320290",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Jarana Tech Club B-day -Winter Conference",
-    "date": "2025-12-26T00:00:00.000",
-    "start_time": "2025-12-26T23:59:00.000",
-    "end_time": "2025-12-27T06:00:00.000",
-    "artists": "",
-    "venue": "Specka",
-    "url": "/events/2310260",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "PHASE: 6 YEARS DANCING (EXTENDED)",
-    "date": "2025-12-26T00:00:00.000",
-    "start_time": "2025-12-26T23:00:00.000",
-    "end_time": "2025-12-27T23:59:00.000",
-    "artists": "",
-    "venue": "TBA - 110",
-    "url": "/events/2252773",
-    "attending": "0",
-    "image": ""
-  },
-  {
     "name": "Elements Cave",
     "date": "2025-12-26T00:00:00.000",
     "start_time": "2025-12-26T23:59:00.000",
@@ -1965,7 +1206,18 @@
     "artists": "",
     "venue": "Next Clubbing",
     "url": "/events/2315817",
-    "attending": "0",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "HALLORAVE FESTIVAL XMAS EDITION",
+    "date": "2025-12-26T00:00:00.000",
+    "start_time": "2025-12-26T23:59:00.000",
+    "end_time": "2025-12-27T12:30:00.000",
+    "artists": "Alviker, Bluntz (2), Sora Éke, DAVID MENA, KITAE",
+    "venue": "LA Fabryka",
+    "url": "/events/2317952",
+    "attending": "21",
     "image": ""
   },
   {
@@ -1976,7 +1228,40 @@
     "artists": "Kaiser (K S R), Benales, Vibrations of Gravity",
     "venue": "Lasociaciøn",
     "url": "/events/2310998",
-    "attending": "12",
+    "attending": "13",
+    "image": ""
+  },
+  {
+    "name": "CAOTICA feat. Bill Kouligas + TOCCORORO",
+    "date": "2025-12-26T00:00:00.000",
+    "start_time": "2025-12-26T23:00:00.000",
+    "end_time": "2025-12-27T06:00:00.000",
+    "artists": "TOCCORORO, Bill Kouligas",
+    "venue": "Core",
+    "url": "/events/2320983",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "INSULTO CLUB Hard Fantasy X",
+    "date": "2025-12-26T00:00:00.000",
+    "start_time": "2025-12-26T23:59:00.000",
+    "end_time": "2025-12-27T06:00:00.000",
+    "artists": "DJ Final Boss, Freska, LA ENGAÑO, TRIXYTRICKS",
+    "venue": "Guss Club",
+    "url": "/events/2322469",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Navidad Pinto 2025",
+    "date": "2025-12-26T00:00:00.000",
+    "start_time": "2025-12-26T20:30:00.000",
+    "end_time": "2025-12-27T02:00:00.000",
+    "artists": "Luke Garcia",
+    "venue": "Recinto Ferial Parque Juan Carlos I (Pinto)",
+    "url": "/events/2322788",
+    "attending": "1",
     "image": ""
   },
   {
@@ -2002,24 +1287,13 @@
     "image": ""
   },
   {
-    "name": "HALLORAVE FESTIVAL XMAS EDITION",
+    "name": "EKHO / TRIBUTE TO TECHNO by NUKE & CESAR ALMENA",
     "date": "2025-12-26T00:00:00.000",
     "start_time": "2025-12-26T23:59:00.000",
-    "end_time": "2025-12-27T12:30:00.000",
-    "artists": "Alviker",
-    "venue": "LA Fabryka",
-    "url": "/events/2317952",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Core feat. Bill Kouligas + TOCCORORO",
-    "date": "2025-12-26T00:00:00.000",
-    "start_time": "2025-12-26T23:00:00.000",
     "end_time": "2025-12-27T06:00:00.000",
-    "artists": "TOCCORORO, Bill Kouligas",
-    "venue": "Core",
-    "url": "/events/2320983",
+    "artists": "",
+    "venue": "ART Madrid Club",
+    "url": "/events/2325281",
     "attending": "0",
     "image": ""
   },
@@ -2031,18 +1305,18 @@
     "artists": "AARON SEVILLA, Claudia León",
     "venue": "Lula Club",
     "url": "/events/2264243",
-    "attending": "582",
+    "attending": "619",
     "image": ""
   },
   {
-    "name": "Jeff Mills / DJ SWISHERMAN",
+    "name": "Jeff Mills 30 Year Anniversary LIQUID ROOM MIX  DJ SWISHERMAN",
     "date": "2025-12-27T00:00:00.000",
-    "start_time": "2025-12-27T23:59:00.000",
+    "start_time": "2025-12-27T22:30:00.000",
     "end_time": "2025-12-28T06:00:00.000",
     "artists": "Jeff Mills, DJ SWISHERMAN",
     "venue": "Mondo",
     "url": "/events/2282345",
-    "attending": "240",
+    "attending": "278",
     "image": ""
   },
   {
@@ -2053,7 +1327,29 @@
     "artists": "MARRØN",
     "venue": "The Bassement",
     "url": "/events/2277781",
-    "attending": "117",
+    "attending": "172",
+    "image": ""
+  },
+  {
+    "name": "PHASE: 6 YEARS DANCING (EXTENDED)",
+    "date": "2025-12-26T00:00:00.000",
+    "start_time": "2025-12-26T23:00:00.000",
+    "end_time": "2025-12-27T23:59:00.000",
+    "artists": "",
+    "venue": "TBA - 110",
+    "url": "/events/2252773",
+    "attending": "23",
+    "image": ""
+  },
+  {
+    "name": "Tortilla W/ Música Cavernícola Showcase",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T18:30:00.000",
+    "end_time": "2025-12-27T23:30:00.000",
+    "artists": "SOSANDLOW",
+    "venue": "High Club Room",
+    "url": "/events/2281955",
+    "attending": "20",
     "image": ""
   },
   {
@@ -2075,7 +1371,18 @@
     "artists": "Daniel Kelsan, Masha Mar, Mena G",
     "venue": "Gilda Club",
     "url": "/events/2316042",
-    "attending": "6",
+    "attending": "7",
+    "image": ""
+  },
+  {
+    "name": "AVISPERO - TARDEO: Bailaferias, Sorentino Barone, Carpantis",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T18:00:00.000",
+    "end_time": "2025-12-27T23:59:00.000",
+    "artists": "",
+    "venue": "EL SÓTANO",
+    "url": "/events/2311973",
+    "attending": "4",
     "image": ""
   },
   {
@@ -2090,17 +1397,6 @@
     "image": ""
   },
   {
-    "name": "AVISPERO - TARDEO: Bailaferias, Sorentino Barone, Carpantis",
-    "date": "2025-12-27T00:00:00.000",
-    "start_time": "2025-12-27T18:00:00.000",
-    "end_time": "2025-12-27T23:59:00.000",
-    "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2311973",
-    "attending": "1",
-    "image": ""
-  },
-  {
     "name": "TECHNODROME: Súper Pä , PALOMA, MILA DUCH",
     "date": "2025-12-27T00:00:00.000",
     "start_time": "2025-12-27T23:59:00.000",
@@ -2108,29 +1404,7 @@
     "artists": "Súper Pä, MILA DUCH, PALOMA (4)",
     "venue": "EL SÓTANO",
     "url": "/events/2319302",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "PHASE: 6 YEARS DANCING (EXTENDED)",
-    "date": "2025-12-26T00:00:00.000",
-    "start_time": "2025-12-26T23:00:00.000",
-    "end_time": "2025-12-27T23:59:00.000",
-    "artists": "",
-    "venue": "TBA - 110",
-    "url": "/events/2252773",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Tortilla W/ Música Cavernícola Showcase",
-    "date": "2025-12-27T00:00:00.000",
-    "start_time": "2025-12-27T18:30:00.000",
-    "end_time": "2025-12-27T23:30:00.000",
-    "artists": "SOSANDLOW",
-    "venue": "High Club Room",
-    "url": "/events/2281955",
-    "attending": "0",
+    "attending": "2",
     "image": ""
   },
   {
@@ -2145,14 +1419,47 @@
     "image": ""
   },
   {
-    "name": "Bunkers Collective (4 years) w / DJ Pete (aka Substance), XDB, Beatrice, Montse & Zarco ",
+    "name": "Skin CALIENTE: Groovemami + PUTAGATASOL",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T23:59:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
+    "artists": "Groovemami",
+    "venue": "Skin",
+    "url": "/events/2322047",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Bunkers Collective (4 YEARS) w / DJ Pete (aka Substance), XDB, Beatrice, Montse & Zarco ",
     "date": "2025-12-27T00:00:00.000",
     "start_time": "2025-12-27T23:59:00.000",
     "end_time": "2025-12-28T12:30:00.000",
     "artists": "XDB, DJ Pete, Beatrice (DE), Montse, Zarco",
     "venue": "Lasociaciøn",
     "url": "/events/2285803",
-    "attending": "94",
+    "attending": "130",
+    "image": ""
+  },
+  {
+    "name": "LOCAL EDITION: Netn, Lexmax, Køni, Killo",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T23:59:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
+    "artists": "NETN, Lexmax, Køni",
+    "venue": "Araña Club",
+    "url": "/events/2318752",
+    "attending": "36",
+    "image": ""
+  },
+  {
+    "name": "Deepers (melodic house) - Free with RA until 1:30",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T23:59:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
+    "artists": "Vico Deep, Anzhio, ALEX FÖX, FedeFink, Unai García",
+    "venue": "Sala El Sol",
+    "url": "/events/2324006",
+    "attending": "35",
     "image": ""
   },
   {
@@ -2163,18 +1470,7 @@
     "artists": "AARON SEVILLA, Alfonso Ares",
     "venue": "Lula Club",
     "url": "/events/2305797",
-    "attending": "19",
-    "image": ""
-  },
-  {
-    "name": "LOCAL EDITION: Netn, Lexmax, Køni, Killo",
-    "date": "2025-12-27T00:00:00.000",
-    "start_time": "2025-12-27T23:59:00.000",
-    "end_time": "2025-12-28T06:00:00.000",
-    "artists": "Lexmax, Køni",
-    "venue": "Araña Club",
-    "url": "/events/2318752",
-    "attending": "10",
+    "attending": "20",
     "image": ""
   },
   {
@@ -2185,7 +1481,51 @@
     "artists": "",
     "venue": "Guss Club",
     "url": "/events/2300004",
-    "attending": "9",
+    "attending": "14",
+    "image": ""
+  },
+  {
+    "name": "Danilo Plessow / Acid Hero",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T23:59:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
+    "artists": "Danilo Plessow",
+    "venue": "Sala Villanos",
+    "url": "/events/2325329",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Confianza Club #12",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T23:59:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
+    "artists": "Nau Leone, Gleezy, Oxbin",
+    "venue": "Cafe La Palma",
+    "url": "/events/2322507",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "Core feat. Nachine, Juguete b2b Distort, Patty & Selma",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T23:00:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
+    "artists": "Juguete, DISTORT (ES), Patty, Selma",
+    "venue": "Core",
+    "url": "/events/2320984",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Circuito Eléctrico VINYL ONLY with Acid Drift/ Emir B/ Sarcophago",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T23:59:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
+    "artists": "EMIR-B, Sarcophago",
+    "venue": "Sala Siroco",
+    "url": "/events/2323767",
+    "attending": "1",
     "image": ""
   },
   {
@@ -2200,11 +1540,22 @@
     "image": ""
   },
   {
+    "name": "Control by Sara Frick",
+    "date": "2025-12-27T00:00:00.000",
+    "start_time": "2025-12-27T23:00:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
+    "artists": "",
+    "venue": "Guss Club",
+    "url": "/events/2326642",
+    "attending": "1",
+    "image": ""
+  },
+  {
     "name": "SHOWCASE CIERRE 2025",
     "date": "2025-12-27T00:00:00.000",
     "start_time": "2025-12-27T23:59:00.000",
     "end_time": "2025-12-28T08:00:00.000",
-    "artists": "Anxiety_Dj, Size_, Root Noise",
+    "artists": "Anxiety_Dj, Size_",
     "venue": "TBA - ALCORCON",
     "url": "/events/2312854",
     "attending": "0",
@@ -2222,17 +1573,6 @@
     "image": ""
   },
   {
-    "name": "Core feat. Nachine, Juguete b2b Distort, Patty & Selma",
-    "date": "2025-12-27T00:00:00.000",
-    "start_time": "2025-12-27T23:00:00.000",
-    "end_time": "2025-12-28T06:00:00.000",
-    "artists": "Juguete, DISTORT (ES), Patty, Selma",
-    "venue": "Core",
-    "url": "/events/2320984",
-    "attending": "0",
-    "image": ""
-  },
-  {
     "name": "BLASTER: Lau.tastic, Arok Shiva, Epileptik",
     "date": "2025-12-28T00:00:00.000",
     "start_time": "2025-12-28T23:59:00.000",
@@ -2240,7 +1580,18 @@
     "artists": "Lau.tastic, Arok Shiva, Epileptik",
     "venue": "EL SÓTANO",
     "url": "/events/2312116",
-    "attending": "6",
+    "attending": "13",
+    "image": ""
+  },
+  {
+    "name": "AXIOM RESiDENTS: Víctor Santana, Súper Pä, R1ton, Mojüru",
+    "date": "2025-12-28T00:00:00.000",
+    "start_time": "2025-12-28T18:00:00.000",
+    "end_time": "2025-12-28T23:59:00.000",
+    "artists": "",
+    "venue": "EL SÓTANO",
+    "url": "/events/2310852",
+    "attending": "4",
     "image": ""
   },
   {
@@ -2255,14 +1606,14 @@
     "image": ""
   },
   {
-    "name": "AXIOM RESiDENTS: Víctor Santana, Súper Pä, R1ton, Mojüru",
+    "name": "128BPM: ADRI CASSY, GIANNATTASIO, KARINA MARBER, TONY MUTTON, REYCHAR",
     "date": "2025-12-28T00:00:00.000",
-    "start_time": "2025-12-28T18:00:00.000",
-    "end_time": "2025-12-28T23:59:00.000",
+    "start_time": "2025-12-28T01:00:00.000",
+    "end_time": "2025-12-28T06:00:00.000",
     "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2310852",
-    "attending": "2",
+    "venue": "Hangar48 Club",
+    "url": "/events/2322934",
+    "attending": "0",
     "image": ""
   },
   {
@@ -2273,7 +1624,7 @@
     "artists": "AARON SEVILLA, Alfonso Ares",
     "venue": "Lula Club",
     "url": "/events/2305797",
-    "attending": "19",
+    "attending": "20",
     "image": ""
   },
   {
@@ -2284,7 +1635,7 @@
     "artists": "",
     "venue": "La Casa Encendida",
     "url": "/events/2315643",
-    "attending": "0",
+    "attending": "1",
     "image": ""
   },
   {
@@ -2295,7 +1646,7 @@
     "artists": "Meneo",
     "venue": "EL SÓTANO",
     "url": "/events/2312021",
-    "attending": "2",
+    "attending": "7",
     "image": ""
   },
   {
@@ -2317,7 +1668,7 @@
     "artists": "DJ Tennis, Torrione, Vanee, jose fajardo",
     "venue": "Lula Club",
     "url": "/events/2264247",
-    "attending": "136",
+    "attending": "220",
     "image": ""
   },
   {
@@ -2328,7 +1679,7 @@
     "artists": "Tommy Four Seven, Jesus Riaño, Ali-Az, Hakkon, Kevin Matto, Systematic Method",
     "venue": "TBA - Powered by: Void Acoustics ",
     "url": "/events/2312196",
-    "attending": "79",
+    "attending": "146",
     "image": ""
   },
   {
@@ -2339,7 +1690,7 @@
     "artists": "Anetha, Gerardo Niva, Freddi",
     "venue": "Mondo",
     "url": "/events/2282347",
-    "attending": "72",
+    "attending": "100",
     "image": ""
   },
   {
@@ -2350,18 +1701,18 @@
     "artists": "Onur Özer, Jorge Escribano, Borja S, Cesc (ES), Mark (ES), Nurias, Avo (ES)",
     "venue": "Cadavra",
     "url": "/events/2230290",
-    "attending": "60",
+    "attending": "67",
     "image": ""
   },
   {
-    "name": "STAMM NYE with Architectural",
+    "name": "STAMM NYE with Architectural, Reptile, Gaussiam Blur, Alonso, Javi Infantes, Pavón, Nico & Bobi",
     "date": "2025-12-31T00:00:00.000",
     "start_time": "2025-12-31T23:59:00.000",
     "end_time": "2026-01-01T13:00:00.000",
     "artists": "Architectural, ALONSO (ES), Donkker, Javi Infantes, Reptile (ES)",
     "venue": "Sala Muv",
     "url": "/events/2312781",
-    "attending": "49",
+    "attending": "54",
     "image": ""
   },
   {
@@ -2372,7 +1723,7 @@
     "artists": "Alvaro Cabana, Simon Garcia, TEEMON&POOMBA, David Ponziano",
     "venue": "Specka",
     "url": "/events/2308986",
-    "attending": "21",
+    "attending": "32",
     "image": ""
   },
   {
@@ -2383,7 +1734,18 @@
     "artists": "Gaskón, Nebari",
     "venue": "EL SÓTANO",
     "url": "/events/2305577",
-    "attending": "6",
+    "attending": "18",
+    "image": ""
+  },
+  {
+    "name": "Elements Cave - Nochevieja",
+    "date": "2025-12-31T00:00:00.000",
+    "start_time": "2025-12-31T23:59:00.000",
+    "end_time": "2026-01-01T06:00:00.000",
+    "artists": "",
+    "venue": "Next Clubbing",
+    "url": "/events/2280000",
+    "attending": "16",
     "image": ""
   },
   {
@@ -2394,7 +1756,7 @@
     "artists": "Yahaira, Certain People, AKA Juan, DIGUES, Gee Contreras",
     "venue": "Gilda Club",
     "url": "/events/2316043",
-    "attending": "6",
+    "attending": "18",
     "image": ""
   },
   {
@@ -2405,7 +1767,7 @@
     "artists": "El cuerpo del Disco, Gaspar Antuña",
     "venue": "berlinClub",
     "url": "/events/2318806",
-    "attending": "2",
+    "attending": "3",
     "image": ""
   },
   {
@@ -2416,18 +1778,7 @@
     "artists": "ines isla, Raquel X, Yeiks, Pipo Campari",
     "venue": "LA Fabryka",
     "url": "/events/2307282",
-    "attending": "14",
-    "image": ""
-  },
-  {
-    "name": "Antidoto Club: Nochevieja",
-    "date": "2025-12-31T00:00:00.000",
-    "start_time": "2025-12-31T23:59:00.000",
-    "end_time": "2026-01-01T07:00:00.000",
-    "artists": "",
-    "venue": "ART Madrid Club",
-    "url": "/events/2312819",
-    "attending": "1",
+    "attending": "15",
     "image": ""
   },
   {
@@ -2438,7 +1789,29 @@
     "artists": "Ale Hope, ONA (SP), Foie Gras, 1Night Only",
     "venue": "Club Malasaña",
     "url": "/events/2320491",
-    "attending": "1",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "NOCHEVIEJA Danzer",
+    "date": "2025-12-31T00:00:00.000",
+    "start_time": "2025-12-31T01:00:00.000",
+    "end_time": "2026-01-01T07:00:00.000",
+    "artists": "",
+    "venue": "Cafe La Palma",
+    "url": "/events/2322210",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Antidoto Club: Nochevieja",
+    "date": "2025-12-31T00:00:00.000",
+    "start_time": "2025-12-31T23:59:00.000",
+    "end_time": "2026-01-01T07:00:00.000",
+    "artists": "",
+    "venue": "ART Madrid Club",
+    "url": "/events/2312819",
+    "attending": "2",
     "image": ""
   },
   {
@@ -2449,18 +1822,29 @@
     "artists": "berta (1), Olvido, FUKCNORMAL",
     "venue": "Core",
     "url": "/events/2320493",
-    "attending": "1",
+    "attending": "2",
     "image": ""
   },
   {
-    "name": "LASTER presents New Year's Day special 12 hours extended AGAIN",
-    "date": "2026-01-01T00:00:00.000",
-    "start_time": "2026-01-01T18:00:00.000",
-    "end_time": "2026-01-02T06:00:00.000",
-    "artists": "Oscar Mulero, Adriana Lopez, Claudio PRC, Isabel Soto, Svreca",
-    "venue": "The Bassement",
-    "url": "/events/2279863",
-    "attending": "424",
+    "name": "New Year´s Eve party w/ Pogo",
+    "date": "2025-12-31T00:00:00.000",
+    "start_time": "2025-12-31T23:59:00.000",
+    "end_time": "2026-01-01T06:00:00.000",
+    "artists": "Tailtiu, Pogo DJs",
+    "venue": "Sala Siroco",
+    "url": "/events/2324293",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "YELO: Nochevieja",
+    "date": "2025-12-31T00:00:00.000",
+    "start_time": "2025-12-31T23:59:00.000",
+    "end_time": "2026-01-01T06:00:00.000",
+    "artists": "Yakro",
+    "venue": "Sala El Sol",
+    "url": "/events/2324317",
+    "attending": "0",
     "image": ""
   },
   {
@@ -2471,7 +1855,18 @@
     "artists": "PATTY&SELMA, Rubén Secaduras, TOM CHIESA",
     "venue": "Club Magno",
     "url": "/events/2313685",
-    "attending": "406",
+    "attending": "486",
+    "image": ""
+  },
+  {
+    "name": "LASTER presents New Year's Day special 12 hours extended AGAIN",
+    "date": "2026-01-01T00:00:00.000",
+    "start_time": "2026-01-01T18:00:00.000",
+    "end_time": "2026-01-02T06:00:00.000",
+    "artists": "Oscar Mulero, Adriana Lopez, Claudio PRC, Isabel Soto, Svreca",
+    "venue": "The Bassement",
+    "url": "/events/2279863",
+    "attending": "479",
     "image": ""
   },
   {
@@ -2482,7 +1877,7 @@
     "artists": "Dennis Ferrer, Crusy, Karretero, Nic Vesperi",
     "venue": "LAB theCLUB",
     "url": "/events/2287843",
-    "attending": "44",
+    "attending": "53",
     "image": ""
   },
   {
@@ -2493,7 +1888,7 @@
     "artists": "H1pnos1s, K-Style, DJ SWISHERMAN, Alba Franch, NARCX, GALGØ",
     "venue": "Mondo",
     "url": "/events/2309102",
-    "attending": "11",
+    "attending": "18",
     "image": ""
   },
   {
@@ -2504,7 +1899,7 @@
     "artists": "Gordo",
     "venue": "Fitz Club",
     "url": "/events/2318118",
-    "attending": "6",
+    "attending": "12",
     "image": ""
   },
   {
@@ -2515,7 +1910,7 @@
     "artists": "AJ Christou, Alex Clap, Andres Campo, ART NO LOGIA, Bassel Darwish, CESAR ALMENA, Darius Syrossian, Eli Brown, FUMI, George Privatti, Guille Placencia, Iglesias, Ilario Alicante, Marco Carola, Mason Collective, Max Dean, MËSTIZA, Michenlo, Nicole Moudaber, Nuke, OGUZ, Olive F, Pan-Pot, Parsa Jafari, Paco Osuna, PETDuo, Phil Berg, Raul Ortiz, STEYA, Marcel Fengler, Vanee",
     "venue": "Fabrik",
     "url": "/events/2263253",
-    "attending": "180",
+    "attending": "192",
     "image": ""
   },
   {
@@ -2526,7 +1921,7 @@
     "artists": "",
     "venue": "La Cubierta de Leganés",
     "url": "/events/2243714",
-    "attending": "29",
+    "attending": "31",
     "image": ""
   },
   {
@@ -2541,6 +1936,17 @@
     "image": ""
   },
   {
+    "name": "Kappa House & Groove: Steve End, Adrian Mart, DANJERS, Cley Rox, CARMESEGUER",
+    "date": "2026-01-02T00:00:00.000",
+    "start_time": "2026-01-02T23:59:00.000",
+    "end_time": "2026-01-03T06:00:00.000",
+    "artists": "CARMESEGUER",
+    "venue": "EL SÓTANO",
+    "url": "/events/2325741",
+    "attending": "4",
+    "image": ""
+  },
+  {
     "name": "TARDEO BOILER GROOVES: DOCTORGON, GALLAR, GONJOEK, PREGO",
     "date": "2026-01-03T00:00:00.000",
     "start_time": "2026-01-03T18:00:00.000",
@@ -2548,11 +1954,11 @@
     "artists": "",
     "venue": "Hangar48 Club",
     "url": "/events/2290191",
-    "attending": "87",
+    "attending": "96",
     "image": ""
   },
   {
-    "name": "37º Aniversario Specka Club",
+    "name": "37º Aniversario Specka Club SOLO ENTRADAS EN PUERTA",
     "date": "2026-01-03T00:00:00.000",
     "start_time": "2026-01-03T23:59:00.000",
     "end_time": "2026-01-04T06:00:00.000",
@@ -2570,7 +1976,7 @@
     "artists": "Ben Sims, DJ SWISHERMAN",
     "venue": "Mondo",
     "url": "/events/2308284",
-    "attending": "38",
+    "attending": "63",
     "image": ""
   },
   {
@@ -2582,6 +1988,28 @@
     "venue": "Cadavra",
     "url": "/events/2308314",
     "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "B2B SERIES: Javi Redondo b2b Alvaro Cabana, Juanita b2b PauPi",
+    "date": "2026-01-03T00:00:00.000",
+    "start_time": "2026-01-03T23:59:00.000",
+    "end_time": "2026-01-04T06:00:00.000",
+    "artists": "Javi Redondo, Alvaro Cabana",
+    "venue": "EL SÓTANO",
+    "url": "/events/2325949",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "Colectivo Yupanqui Dj Peruzzi",
+    "date": "2026-01-03T00:00:00.000",
+    "start_time": "2026-01-03T23:59:00.000",
+    "end_time": "2026-01-04T06:00:00.000",
+    "artists": "",
+    "venue": "Sala Villanos",
+    "url": "/events/2325794",
+    "attending": "1",
     "image": ""
   },
   {
@@ -2603,7 +2031,29 @@
     "artists": "Radio Slave, Jen Cardini, Spencer Parker, Ezekiel Monjes, PATTY&SELMA",
     "venue": "LAB theCLUB",
     "url": "/events/2300579",
-    "attending": "2",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "Bossa - Tardeo: Héctor Pericet, Julio Machicado, Rguinea",
+    "date": "2026-01-04T00:00:00.000",
+    "start_time": "2026-01-04T18:00:00.000",
+    "end_time": "2026-01-04T23:59:00.000",
+    "artists": "",
+    "venue": "EL SÓTANO",
+    "url": "/events/2325992",
+    "attending": "5",
+    "image": ""
+  },
+  {
+    "name": "BLASTER: Laura Lane, JvggedDoggie, Arok Shiva",
+    "date": "2026-01-04T00:00:00.000",
+    "start_time": "2026-01-04T23:59:00.000",
+    "end_time": "2026-01-05T05:30:00.000",
+    "artists": "JvggedDoggie",
+    "venue": "EL SÓTANO",
+    "url": "/events/2325994",
+    "attending": "1",
     "image": ""
   },
   {
@@ -2614,7 +2064,7 @@
     "artists": "Adiel, Héctor Oaks, Quest (IT)",
     "venue": "The Bassement",
     "url": "/events/2299765",
-    "attending": "110",
+    "attending": "155",
     "image": ""
   },
   {
@@ -2625,7 +2075,7 @@
     "artists": "",
     "venue": "Strong the Club",
     "url": "/events/2307951",
-    "attending": "69",
+    "attending": "75",
     "image": ""
   },
   {
@@ -2636,7 +2086,7 @@
     "artists": "MALUGI, Gerardo Niva, Milion, Justin Jay",
     "venue": "Florida Park",
     "url": "/events/2308289",
-    "attending": "13",
+    "attending": "15",
     "image": ""
   },
   {
@@ -2647,7 +2097,18 @@
     "artists": "Demon, Yvan Corrochano, Monty",
     "venue": "EL SÓTANO",
     "url": "/events/2317845",
-    "attending": "2",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Bendita Locura x Connect",
+    "date": "2026-01-05T00:00:00.000",
+    "start_time": "2026-01-05T23:59:00.000",
+    "end_time": "2026-01-06T06:00:00.000",
+    "artists": "",
+    "venue": "Lula Club",
+    "url": "/events/2325286",
+    "attending": "5",
     "image": ""
   },
   {
@@ -2669,7 +2130,18 @@
     "artists": "DJ Boss, Oscar Blue, KTV (ES), Crissis",
     "venue": "Lasociaciøn",
     "url": "/events/2309237",
-    "attending": "22",
+    "attending": "24",
+    "image": ""
+  },
+  {
+    "name": "UNDERHELL: NOCHE DE REYES",
+    "date": "2026-01-05T00:00:00.000",
+    "start_time": "2026-01-05T22:00:00.000",
+    "end_time": "2026-01-06T06:00:00.000",
+    "artists": "",
+    "venue": "Next Clubbing",
+    "url": "/events/2326041",
+    "attending": "7",
     "image": ""
   },
   {
@@ -2686,12 +2158,12 @@
   {
     "name": "MyPleasure_NEW YEAR FESTIVAL // Kinks & Queens",
     "date": "2026-01-05T00:00:00.000",
-    "start_time": "2026-01-05T18:00:00.000",
+    "start_time": "2026-01-05T22:00:00.000",
     "end_time": "2026-01-06T08:00:00.000",
-    "artists": "",
-    "venue": "TBA",
+    "artists": "Kiddy Smile, GIDEÖN, Diskoan",
+    "venue": "Sala Zenith",
     "url": "/events/2300582",
-    "attending": "1",
+    "attending": "2",
     "image": ""
   },
   {
@@ -2702,7 +2174,183 @@
     "artists": "Paulina Casi Rubio, Candela Paos, KRSDJ",
     "venue": "Inklub Madrid",
     "url": "/events/2317618",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "NATÜRA.reyes",
+    "date": "2026-01-05T00:00:00.000",
+    "start_time": "2026-01-05T23:59:00.000",
+    "end_time": "2026-01-06T06:00:00.000",
+    "artists": "Yoikol, Luis MF, Luismi Delpino, System Efe",
+    "venue": "Aura Club",
+    "url": "/events/2325200",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Serafina / Alba Franch",
+    "date": "2026-01-08T00:00:00.000",
+    "start_time": "2026-01-08T23:59:00.000",
+    "end_time": "2026-01-09T05:30:00.000",
+    "artists": "Serafina, Alba Franch",
+    "venue": "Mondo",
+    "url": "/events/2321045",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "NOWNER CLUB (LISTAS GRATIS HASTA LA 1:30)",
+    "date": "2026-01-08T00:00:00.000",
+    "start_time": "2026-01-08T23:59:00.000",
+    "end_time": "2026-01-09T05:00:00.000",
+    "artists": "MEANA, WILO(2), FIGUREX",
+    "venue": "Sala Siroco",
+    "url": "/events/2308838",
+    "attending": "7",
+    "image": ""
+  },
+  {
+    "name": "Frequencies",
+    "date": "2026-01-08T00:00:00.000",
+    "start_time": "2026-01-08T23:59:00.000",
+    "end_time": "2026-01-09T05:00:00.000",
+    "artists": "",
+    "venue": "Sala El Sol",
+    "url": "/events/2280108",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Pharmazy: Vilchezz, Belkan, Javier Klash, Vandiaz, Dyans",
+    "date": "2026-01-09T00:00:00.000",
+    "start_time": "2026-01-09T23:59:00.000",
+    "end_time": "2026-01-10T06:00:00.000",
+    "artists": "Vilchezz, Belkan, Javier Klash, Vandiaz, Dyans",
+    "venue": "EL SÓTANO",
+    "url": "/events/2325926",
+    "attending": "6",
+    "image": ""
+  },
+  {
+    "name": "CROW with Akua, BLANKA, SAINT SINNER and REPTILE",
+    "date": "2026-01-09T00:00:00.000",
+    "start_time": "2026-01-09T23:59:00.000",
+    "end_time": "2026-01-10T06:00:00.000",
+    "artists": "Akua, BLANKA, SAINT SINNER, Reptile (ES)",
+    "venue": "LAB theCLUB",
+    "url": "/events/2320084",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "ARKA",
+    "date": "2026-01-09T00:00:00.000",
+    "start_time": "2026-01-09T23:59:00.000",
+    "end_time": "2026-01-10T08:00:00.000",
+    "artists": "David Mallada, KRENVKO (2)",
+    "venue": "Lasociaciøn",
+    "url": "/events/2309556",
+    "attending": "10",
+    "image": ""
+  },
+  {
+    "name": "ONYX *ON TOUR*",
+    "date": "2026-01-10T00:00:00.000",
+    "start_time": "2026-01-10T23:59:00.000",
+    "end_time": "2026-01-11T08:00:00.000",
+    "artists": "Niotech, VAENT, KARISH, THISO, 3LEEZA, dj.da.li",
+    "venue": "Laboratorio Octogon",
+    "url": "/events/2282936",
+    "attending": "17",
+    "image": ""
+  },
+  {
+    "name": "Tortilla X Certain Club",
+    "date": "2026-01-10T00:00:00.000",
+    "start_time": "2026-01-10T18:30:00.000",
+    "end_time": "2026-01-10T23:30:00.000",
+    "artists": "",
+    "venue": "High Club Room",
+    "url": "/events/2317600",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "KELLER HARD CLUB 34: Lee Ann Roberts [3H SET] & SEPHAX",
+    "date": "2026-01-10T00:00:00.000",
+    "start_time": "2026-01-10T23:59:00.000",
+    "end_time": "2026-01-11T06:00:00.000",
+    "artists": "Lee Ann Roberts",
+    "venue": "The Bassement",
+    "url": "/events/2320285",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Bushbaby / Gerardo Niva",
+    "date": "2026-01-10T00:00:00.000",
+    "start_time": "2026-01-10T23:59:00.000",
+    "end_time": "2026-01-11T06:00:00.000",
+    "artists": "Bushbaby, Gerardo Niva",
+    "venue": "Mondo",
+    "url": "/events/2321046",
     "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "CERTAIN CLUB with Franziska Berns",
+    "date": "2026-01-10T00:00:00.000",
+    "start_time": "2026-01-10T23:59:00.000",
+    "end_time": "2026-01-11T06:00:00.000",
+    "artists": "Franziska Berns",
+    "venue": "Cadavra",
+    "url": "/events/2324625",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "ORG VOL. 8 - BLIND TICKETS",
+    "date": "2026-01-10T00:00:00.000",
+    "start_time": "2026-01-10T23:59:00.000",
+    "end_time": "2026-01-11T10:00:00.000",
+    "artists": "",
+    "venue": "TBA - Studio 76",
+    "url": "/events/2319535",
+    "attending": "20",
+    "image": ""
+  },
+  {
+    "name": "SYNTH presents CORE: CONCEPTUAL / Traversable Message / Javier Gantz",
+    "date": "2026-01-10T00:00:00.000",
+    "start_time": "2026-01-10T23:59:00.000",
+    "end_time": "2026-01-11T10:00:00.000",
+    "artists": "CONCEPTUAL, Traversable Message, Javier Gantz, Xcire, Andrés Ov",
+    "venue": "TBA",
+    "url": "/events/2312023",
+    "attending": "19",
+    "image": ""
+  },
+  {
+    "name": "RAVE 404 - Winter Edition with ZAPRAVKA",
+    "date": "2026-01-10T00:00:00.000",
+    "start_time": "2026-01-10T22:00:00.000",
+    "end_time": "2026-01-11T06:00:00.000",
+    "artists": "Davy, DJ Marta, leinaD, Santi Aranya, Venus de Milo, Yeyo",
+    "venue": "Fabrik",
+    "url": "/events/2324110",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "BLASTER: Arzadous, Arok Shiva, DAVID MENA",
+    "date": "2026-01-11T00:00:00.000",
+    "start_time": "2026-01-11T23:59:00.000",
+    "end_time": "2026-01-12T05:30:00.000",
+    "artists": "Arok Shiva, DAVID MENA",
+    "venue": "EL SÓTANO",
+    "url": "/events/2325995",
+    "attending": "1",
     "image": ""
   }
 ]
