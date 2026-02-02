@@ -1,849 +1,46 @@
 [
   {
+    "name": "Discoscuro",
+    "date": "2026-02-01T00:00:00.000",
+    "start_time": "2026-02-01T23:00:00.000",
+    "end_time": "2026-02-09T05:00:00.000",
+    "artists": "Cono (3), Marina Antih",
+    "venue": "Sala Siroco",
+    "url": "/events/2359987",
+    "attending": "28",
+    "image": ""
+  },
+  {
+    "name": "Discoscuro",
+    "date": "2026-02-01T00:00:00.000",
+    "start_time": "2026-02-01T23:00:00.000",
+    "end_time": "2026-02-09T05:00:00.000",
+    "artists": "Cono (3), Marina Antih",
+    "venue": "Sala Siroco",
+    "url": "/events/2359987",
+    "attending": "28",
+    "image": ""
+  },
+  {
     "name": "MAD RAVE by Elements Cave",
-    "date": "2026-01-28T00:00:00.000",
-    "start_time": "2026-01-28T23:59:00.000",
-    "end_time": "2026-01-29T06:00:00.000",
-    "artists": "Nixy, Nigabba",
-    "venue": "Sala El Sol",
-    "url": "/events/2342541",
-    "attending": "19",
-    "image": ""
-  },
-  {
-    "name": "Elements Cave",
-    "date": "2026-01-28T00:00:00.000",
-    "start_time": "2026-01-28T23:59:00.000",
-    "end_time": "2026-01-29T06:00:00.000",
+    "date": "2026-02-04T00:00:00.000",
+    "start_time": "2026-02-04T23:59:00.000",
+    "end_time": "2026-02-05T05:00:00.000",
     "artists": "",
     "venue": "Sala El Sol",
-    "url": "/events/2334293",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Flug aka Linkan Ray at ANFANG",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T05:30:00.000",
-    "artists": "Flug, MÄEM, Wisje Dj, Fgdj, Pylerinstinct1",
-    "venue": "Cadavra",
-    "url": "/events/2338007",
-    "attending": "16",
-    "image": ""
-  },
-  {
-    "name": "Alycia Bezgo / Alba Franch",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T05:30:00.000",
-    "artists": "Alycia Bezgo, Alba Franch",
-    "venue": "Mondo",
-    "url": "/events/2321056",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "DANZE AFRIKA CLUB: DJ Mois, DJ MBA",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T05:30:00.000",
-    "artists": "DJ MBA, DJ Mois",
-    "venue": "EL SÓTANO",
-    "url": "/events/2330298",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Warmth · Nick En Mare + Palma Palma + Théory",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T05:30:00.000",
-    "artists": "Palma Palma",
-    "venue": "berlinClub",
-    "url": "/events/2349152",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "TOTAL HARDCORE - BARRA LIBRE HASTA LA 1:30",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T06:00:00.000",
-    "artists": "",
-    "venue": "Guss Club",
-    "url": "/events/2349638",
-    "attending": "182",
-    "image": ""
-  },
-  {
-    "name": "CLUB DEL FOMO invita a LA ISLA (entrada gratis)",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T22:00:00.000",
-    "end_time": "2026-01-30T04:00:00.000",
-    "artists": "Raisa, Noot Noot, (V)Vilches, Nora Dris, AL MANDO",
-    "venue": "Gilda Club",
-    "url": "/events/2345908",
-    "attending": "23",
-    "image": ""
-  },
-  {
-    "name": "Jolie ft. Megre, Fortuno vs AMANN, EBE b2b JMIY",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T06:00:00.000",
-    "artists": "Fortuno",
-    "venue": "Lula Club",
-    "url": "/events/2335416",
-    "attending": "13",
-    "image": ""
-  },
-  {
-    "name": "A Series of Melodies",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T06:00:00.000",
-    "artists": "",
-    "venue": "Goya Social Club",
-    "url": "/events/2351207",
-    "attending": "8",
-    "image": ""
-  },
-  {
-    "name": "Hardbrutality",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T05:30:00.000",
-    "artists": "",
-    "venue": "Sala Cocó",
-    "url": "/events/2347744",
-    "attending": "4",
-    "image": ""
-  },
-  {
-    "name": "Club Malasaña feat. Foie Gras (all night long)",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:00:00.000",
-    "end_time": "2026-01-30T06:00:00.000",
-    "artists": "Foie Gras",
-    "venue": "Club Malasaña",
-    "url": "/events/2333206",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Antidoto Club: Portia Walker",
-    "date": "2026-01-29T00:00:00.000",
-    "start_time": "2026-01-29T23:59:00.000",
-    "end_time": "2026-01-30T05:30:00.000",
-    "artists": "Yosef (ES), Diego Armando, Maxvll",
-    "venue": "Sala ART",
-    "url": "/events/2340661",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "BRNT with Stephan Bodzin Live",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "Stephan Bodzin",
-    "venue": "LAB theCLUB",
-    "url": "/events/2298459",
-    "attending": "622",
-    "image": ""
-  },
-  {
-    "name": "BSMT LIVE presents Charlotte de Witte",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:00:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "Charlotte de Witte",
-    "venue": "The Bassement",
-    "url": "/events/2325136",
-    "attending": "467",
-    "image": ""
-  },
-  {
-    "name": "Mr. Belt & Wezol",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "Mr. Belt & Wezol",
-    "venue": "Lula Club",
-    "url": "/events/2329483",
-    "attending": "204",
-    "image": ""
-  },
-  {
-    "name": "CDVR 4 YEARS: SLOW LIFE x Sigh.CLUB w/ Laurine & Cecilio + Paolo Mosca (live)",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "Laurine, Cecilio, Paolo Mosca, Avo (ES), Rebecca Ardura, Manchon, Cesc (ES), DANIL0",
-    "venue": "Cadavra",
-    "url": "/events/2302533",
-    "attending": "61",
-    "image": ""
-  },
-  {
-    "name": "DJ Marcelle",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "DJ Marcelle",
-    "venue": "Sala Villanos",
-    "url": "/events/2326019",
-    "attending": "48",
-    "image": ""
-  },
-  {
-    "name": "Gilda Club - Danke",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "DJ Gamba, DHERMIDA",
-    "venue": "Gilda Club",
-    "url": "/events/2335067",
-    "attending": "38",
-    "image": ""
-  },
-  {
-    "name": "S[O]LO x DARKMASS - Specka Club",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "Franklin S, KRSDJ",
-    "venue": "Specka",
-    "url": "/events/2336102",
-    "attending": "36",
-    "image": ""
-  },
-  {
-    "name": "SANTA CLUB: freedomB, Hugo Cárter, Bonny & Matt",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "freedomB, Matt X",
-    "venue": "EL SÓTANO",
-    "url": "/events/2329849",
-    "attending": "15",
-    "image": ""
-  },
-  {
-    "name": "Love Bombing: Esinmaterial, Mr.Mime, Mangoneo, Rosa",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "ROSA (4)",
-    "venue": "Hangar48 Club",
-    "url": "/events/2343973",
-    "attending": "12",
-    "image": ""
-  },
-  {
-    "name": "Quinoa Experience: Akyki(Live), Camallo, Chris Gorrie",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "Chris Gorrie",
-    "venue": "Sala Siroco",
-    "url": "/events/2336274",
-    "attending": "11",
-    "image": ""
-  },
-  {
-    "name": "Studi76 Club present: Boris from Berghain + Kevin Matto",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T08:00:00.000",
-    "artists": "Boris, Kevin Matto",
-    "venue": "TBA - Powered by: Void Acoustics ",
-    "url": "/events/2354271",
-    "attending": "29",
-    "image": ""
-  },
-  {
-    "name": "NEOTIKA MUVMENT 5",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T07:00:00.000",
-    "artists": "",
-    "venue": "Sala Muv",
-    "url": "/events/2350406",
-    "attending": "4",
-    "image": ""
-  },
-  {
-    "name": "Skin ALPHA: Diskoan + DOFS + NETN",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "Diskoan, NETN",
-    "venue": "Skin",
-    "url": "/events/2338540",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Elements Cave x Technetium",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "",
-    "venue": "Next Clubbing",
-    "url": "/events/2342539",
-    "attending": "4",
-    "image": ""
-  },
-  {
-    "name": "FIRST VINYL_ES EVENT: EZKEA, GARTXI KRYZOK, PxT, RUEDA, TXIPU",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "",
-    "venue": "Hangar48 Club",
-    "url": "/events/2354765",
+    "url": "/events/2360170",
     "attending": "0",
     "image": ""
   },
   {
-    "name": "Symbole - Club Series II with Anthony Linell, Steve Bicknell",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T12:00:00.000",
-    "artists": "Anthony Linell, Steve Bicknell, Ana Alves, Baldman, NDSTPS",
-    "venue": "LA Fabryka",
-    "url": "/events/2312585",
-    "attending": "59",
-    "image": ""
-  },
-  {
-    "name": "IMTRUDER - 30 Enero",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T10:00:00.000",
-    "artists": "Ruben Luna, Fran Lobato, JAIROSKUN",
-    "venue": "X Private Club",
-    "url": "/events/2350255",
-    "attending": "16",
-    "image": ""
-  },
-  {
-    "name": "PORTAL61 - QUKA INVITES",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T08:00:00.000",
-    "artists": "Atrâm",
-    "venue": "Laboratorio Octogon",
-    "url": "/events/2342366",
-    "attending": "11",
-    "image": ""
-  },
-  {
-    "name": "F.T.C.N Ediciones & Musik Mattin with Lolina, La Rat",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T08:00:00.000",
-    "artists": "Lolina, Keftagine, DJ Feet",
-    "venue": "Lasociaciøn",
-    "url": "/events/2336024",
-    "attending": "8",
-    "image": ""
-  },
-  {
-    "name": "Blasé feat. DJ AYA + Rata de Internet",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:00:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "DJ AYA, Miqui Brightside, Rata de Internet",
-    "venue": "Club Malasaña",
-    "url": "/events/2333207",
-    "attending": "5",
-    "image": ""
-  },
-  {
-    "name": "Girltoy W/ Síofra + Juguete + Albal",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:00:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "Síofra, Juguete, Albal",
-    "venue": "Core",
-    "url": "/events/2337362",
-    "attending": "5",
-    "image": ""
-  },
-  {
-    "name": "XTREME by EKHO / DANIELLA DA SILVA",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:00:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "",
-    "venue": "ART Madrid Club",
-    "url": "/events/2346721",
-    "attending": "4",
-    "image": ""
-  },
-  {
-    "name": "Blasé feat. DJ AYA, Rata de Internet b2b Gideo, Miqui Brightside",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "DJ AYA, Rata de Internet, Gideo (ES), Miqui Brightside",
-    "venue": "Club Malasaña",
-    "url": "/events/2348516",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "MADRID MEETS MALLORCA by Atempo Music",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:30:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "",
-    "venue": "Cafe La Palma",
-    "url": "/events/2352501",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "Soleado",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T20:00:00.000",
-    "end_time": "2026-01-30T22:00:00.000",
-    "artists": "",
-    "venue": "Centro Cultural Conde Duque",
-    "url": "/events/2315648",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Guacamayo Tropical",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-01-31T06:00:00.000",
-    "artists": "",
-    "venue": "Sala El Sol",
-    "url": "/events/2346809",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "LAGRIMA pres. èvia (AV show) + Nueen (AV show) + Diego V Navarro (AV show)",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T19:00:00.000",
-    "end_time": "2026-01-30T23:00:00.000",
-    "artists": "èvia, Nueen, Diego Navarro",
-    "venue": "Replika Teatro",
-    "url": "/events/2352221",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "AFRODISE X MOOTS FESTIVAL",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T16:00:00.000",
-    "end_time": "2026-02-01T00:00:00.000",
-    "artists": "AARON SEVILLA, Claudia León",
-    "venue": "Autocine Madrid Race",
-    "url": "/events/2314097",
-    "attending": "1558",
-    "image": ""
-  },
-  {
-    "name": "Fury Hard Techno - Madrid Club Edition (Sala Groove)",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:00:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "BLNK, GRAVEDGR, KX CHR, TiTi, Vortek's",
-    "venue": "Sala Groove",
-    "url": "/events/2303408",
-    "attending": "396",
-    "image": ""
-  },
-  {
-    "name": "Afrodise x Moots - After Party",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "AARON SEVILLA, Claudia León",
-    "venue": "Lula Club",
-    "url": "/events/2325554",
-    "attending": "258",
-    "image": ""
-  },
-  {
-    "name": "Industrial Mad// Candy Cox",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T08:00:00.000",
-    "artists": "Candy Cox",
-    "venue": "Sala Muv",
-    "url": "/events/2310113",
-    "attending": "197",
-    "image": ""
-  },
-  {
-    "name": "BSMT LIVE presents Hot Since 82 & Blackchild",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:00:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Hot Since 82, Blackchild",
-    "venue": "The Bassement",
-    "url": "/events/2336293",
-    "attending": "152",
-    "image": ""
-  },
-  {
-    "name": "CDVR 4 YEARS: ASSEMBLE AGENCY with Sansibar + Amor Satyr",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Sansibar, Amor Satyr, Gala (ES), Depaart",
-    "venue": "Cadavra",
-    "url": "/events/2309174",
-    "attending": "36",
-    "image": ""
-  },
-  {
-    "name": "Gilda Club",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Arabian Panther, Yahaira, esqivel, Nau Leone, Diego Montiel",
-    "venue": "Gilda Club",
-    "url": "/events/2336070",
-    "attending": "25",
-    "image": ""
-  },
-  {
-    "name": "Faster Horses / Gerardo Niva / Luca v/d Homberg",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Faster Horses, Gerardo Niva",
-    "venue": "Mondo",
-    "url": "/events/2321059",
-    "attending": "21",
-    "image": ""
-  },
-  {
-    "name": "JÄGERMUSIC: Demuja, Fer Xplosion & Gaskón",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Demuja, Fer Xplosion, Gaskón",
-    "venue": "EL SÓTANO",
-    "url": "/events/2325951",
-    "attending": "17",
-    "image": ""
-  },
-  {
-    "name": "Void Control - Specka Club",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Santiago Ritacco, M. Freelance",
-    "venue": "Specka",
-    "url": "/events/2337140",
-    "attending": "14",
-    "image": ""
-  },
-  {
-    "name": "Tortilla W/ Depaart All Day Long",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T18:30:00.000",
-    "end_time": "2026-01-31T23:30:00.000",
-    "artists": "Depaart",
-    "venue": "High Club Room",
-    "url": "/events/2317627",
-    "attending": "10",
-    "image": ""
-  },
-  {
-    "name": "ARETE Ft. KILOMBO: Aisak Morris, Fede Fink, Naya, Lady Vanilla, Lautaro, Lukketa",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Lady Vanilla, Lautaro",
-    "venue": "Hangar48 Club",
-    "url": "/events/2343993",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "Skin CALIENTE: CANDELAXFAVOR + PUTAGATASOL + RANER BAUMGARTNER",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "",
-    "venue": "Skin",
-    "url": "/events/2350785",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "Blend · Nacho Larache + Héctor Mingues + Isaac B + Marcos Boricua",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Marcos Boricua",
-    "venue": "berlinClub",
-    "url": "/events/2349153",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "ISOLATED BY ATASH BY PYGMALEON",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "",
-    "venue": "Hangar48 Club",
-    "url": "/events/2350739",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "FIRST VINYL_ES EVENT: EZKEA, GARTXI KRYZOK, PxT, RUEDA, TXIPU",
-    "date": "2026-01-30T00:00:00.000",
-    "start_time": "2026-01-30T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "",
-    "venue": "Hangar48 Club",
-    "url": "/events/2354765",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "TANTUM - Jodita Techno",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Tantum, Unai García, Jara, Trianta",
-    "venue": "Sala UNI Madrid",
-    "url": "/events/2342051",
-    "attending": "162",
-    "image": ""
-  },
-  {
-    "name": "CublÄrlam",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T16:00:00.000",
-    "artists": "Tadeo, ADRI.G, Crissis, Nicolas Cetina., KRENVKO (2)",
-    "venue": "Lasociaciøn",
-    "url": "/events/2329533",
-    "attending": "24",
-    "image": ""
-  },
-  {
-    "name": "Bohrium Madrid w/ CEZAR",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T12:00:00.000",
-    "artists": "CEZAR, Akela, coozy, Angel Mosteiro, Carla Martínez, Elsoo",
-    "venue": "TBA - Madrid",
-    "url": "/events/2332577",
-    "attending": "23",
-    "image": ""
-  },
-  {
-    "name": "Footloosing at Goya",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Hugo Carter, MIGO, Carlo Martino, Random Memory",
-    "venue": "Goya Social Club",
-    "url": "/events/2341050",
-    "attending": "20",
-    "image": ""
-  },
-  {
-    "name": "TECHNO MADRID GROUP IV ANIVERSARIO",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Nöle, M3LO, Fujur",
-    "venue": "Klan Club Privado",
-    "url": "/events/2350633",
-    "attending": "13",
-    "image": ""
-  },
-  {
-    "name": "XENONKLUB 002",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Sora Éke",
-    "venue": "Araña Club",
-    "url": "/events/2351618",
-    "attending": "8",
-    "image": ""
-  },
-  {
-    "name": "Afrobibi x Bombshells",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T05:30:00.000",
-    "artists": "",
-    "venue": "Club Magno",
-    "url": "/events/2351482",
-    "attending": "7",
-    "image": ""
-  },
-  {
-    "name": "Club Malasaña feat. Teo Lucadamo (dj set) + Guim + JP Sunshine",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:00:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Guim",
-    "venue": "Club Malasaña",
-    "url": "/events/2333211",
-    "attending": "2",
-    "image": ""
-  },
-  {
-    "name": "Afrodita",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "",
-    "venue": "Lula Club",
-    "url": "/events/2349363",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "AKELARRE - All Night Residents",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T08:00:00.000",
-    "artists": "",
-    "venue": "Laboratorio Octogon",
-    "url": "/events/2336657",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "CÁPSULA by Antídoto",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:00:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Yosef",
-    "venue": "Core",
-    "url": "/events/2337363",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Tumbala",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Sany Delitos",
-    "venue": "Sala Siroco",
-    "url": "/events/2346749",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Beautiful Papitos",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T17:00:00.000",
-    "end_time": "2026-01-31T23:00:00.000",
-    "artists": "",
-    "venue": "Sala Siroco",
-    "url": "/events/2346787",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "MOAB",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "",
-    "venue": "New Destino Electronic Club",
-    "url": "/events/2349101",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "YELO",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "",
-    "venue": "Sala El Sol",
-    "url": "/events/2351459",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "SUPERLOVER presenta: Art of Tones + BODY O & VICTOR CARRE",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Art of Tones, Body-O, Victor Carré",
-    "venue": "Tempo",
-    "url": "/events/2353056",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "Antidoto Club: Disobey Soundsystem",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T23:59:00.000",
-    "end_time": "2026-02-01T06:00:00.000",
-    "artists": "Virtual Flavor",
-    "venue": "Sala ART",
-    "url": "/events/2353247",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "TIEMEI & DESILENCE",
-    "date": "2026-01-31T00:00:00.000",
-    "start_time": "2026-01-31T20:00:00.000",
-    "end_time": "2026-01-31T22:30:00.000",
-    "artists": "",
-    "venue": "Centro Cultural Conde Duque",
-    "url": "/events/2315649",
-    "attending": "0",
-    "image": ""
-  },
-  {
-    "name": "RIOT CLUB: Stereocode, Arok Shiva, Leofix",
+    "name": "Discoscuro",
     "date": "2026-02-01T00:00:00.000",
-    "start_time": "2026-02-01T23:59:00.000",
-    "end_time": "2026-02-02T05:30:00.000",
-    "artists": "Arok Shiva, Leofix",
-    "venue": "EL SÓTANO",
-    "url": "/events/2342870",
-    "attending": "9",
-    "image": ""
-  },
-  {
-    "name": "BOSSA TARDEO: D.Cortés, Héctor Pericet, Javier de la Vega, Manu Montero",
-    "date": "2026-02-01T00:00:00.000",
-    "start_time": "2026-02-01T18:00:00.000",
-    "end_time": "2026-02-01T23:59:00.000",
-    "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2342786",
-    "attending": "8",
-    "image": ""
-  },
-  {
-    "name": "TEPUY",
-    "date": "2026-02-01T00:00:00.000",
-    "start_time": "2026-02-01T23:59:00.000",
-    "end_time": "2026-02-02T06:00:00.000",
-    "artists": "",
-    "venue": "New Destino Electronic Club",
-    "url": "/events/2353148",
-    "attending": "0",
+    "start_time": "2026-02-01T23:00:00.000",
+    "end_time": "2026-02-09T05:00:00.000",
+    "artists": "Cono (3), Marina Antih",
+    "venue": "Sala Siroco",
+    "url": "/events/2359987",
+    "attending": "28",
     "image": ""
   },
   {
@@ -854,7 +51,40 @@
     "artists": "",
     "venue": "Sala El Sol",
     "url": "/events/2351468",
-    "attending": "0",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "Lost Boys with Bradley Zero",
+    "date": "2026-02-05T00:00:00.000",
+    "start_time": "2026-02-05T23:59:00.000",
+    "end_time": "2026-02-06T06:00:00.000",
+    "artists": "Bradley Zero",
+    "venue": "Lula Club",
+    "url": "/events/2355769",
+    "attending": "40",
+    "image": ""
+  },
+  {
+    "name": "KELLER HARD CLUB 35: BYORN, SEPHAX & SORA EKE B2B Nico Bondi",
+    "date": "2026-02-05T00:00:00.000",
+    "start_time": "2026-02-05T23:00:00.000",
+    "end_time": "2026-02-06T06:00:00.000",
+    "artists": "SEPHAX, Nico Bondi",
+    "venue": "The Bassement",
+    "url": "/events/2357765",
+    "attending": "27",
+    "image": ""
+  },
+  {
+    "name": "CDVR 4 YEARS: Kwartz at ANFANG",
+    "date": "2026-02-05T00:00:00.000",
+    "start_time": "2026-02-05T23:59:00.000",
+    "end_time": "2026-02-06T05:30:00.000",
+    "artists": "Kwartz, Unkle Fon, Danza Macabra",
+    "venue": "Cadavra",
+    "url": "/events/2351015",
+    "attending": "22",
     "image": ""
   },
   {
@@ -865,7 +95,7 @@
     "artists": "Azyr, K-Style",
     "venue": "Mondo",
     "url": "/events/2333107",
-    "attending": "18",
+    "attending": "19",
     "image": ""
   },
   {
@@ -880,14 +110,14 @@
     "image": ""
   },
   {
-    "name": "Kwartz at ANFANG",
+    "name": "ACID SYNC (live) — Sink Sync + AcidPel",
     "date": "2026-02-05T00:00:00.000",
     "start_time": "2026-02-05T23:59:00.000",
     "end_time": "2026-02-06T05:30:00.000",
-    "artists": "Kwartz, Unkle Fon, Danza Macabra",
-    "venue": "Cadavra",
-    "url": "/events/2351015",
-    "attending": "6",
+    "artists": "Sink Sync",
+    "venue": "berlinClub",
+    "url": "/events/2349157",
+    "attending": "1",
     "image": ""
   },
   {
@@ -902,17 +132,6 @@
     "image": ""
   },
   {
-    "name": "ACID SYNC (live) — Sink Sync + AcidPel",
-    "date": "2026-02-05T00:00:00.000",
-    "start_time": "2026-02-05T23:59:00.000",
-    "end_time": "2026-02-06T05:30:00.000",
-    "artists": "Sink Sync",
-    "venue": "berlinClub",
-    "url": "/events/2349157",
-    "attending": "0",
-    "image": ""
-  },
-  {
     "name": "Frequencies +Groove +Makina +Cervezas gratis hasta 02am",
     "date": "2026-02-05T00:00:00.000",
     "start_time": "2026-02-05T23:59:00.000",
@@ -920,18 +139,51 @@
     "artists": "",
     "venue": "Guss Club",
     "url": "/events/2328490",
-    "attending": "101",
+    "attending": "210",
     "image": ""
   },
   {
-    "name": "Jolie ft. Lost Boys",
+    "name": "CLUB DEL FOMO invita a Groove Grill (entrada gratis)",
     "date": "2026-02-05T00:00:00.000",
-    "start_time": "2026-02-05T23:00:00.000",
-    "end_time": "2026-02-06T06:00:00.000",
+    "start_time": "2026-02-05T22:00:00.000",
+    "end_time": "2026-02-06T04:00:00.000",
+    "artists": "Orson Sinaka, Cortazar, Rony Finkel",
+    "venue": "Gilda Club",
+    "url": "/events/2355421",
+    "attending": "10",
+    "image": ""
+  },
+  {
+    "name": "BEFORE | Jolie Extended – Carnevale Notturno",
+    "date": "2026-02-05T00:00:00.000",
+    "start_time": "2026-02-05T22:00:00.000",
+    "end_time": "2026-02-06T02:00:00.000",
     "artists": "Fortuno",
     "venue": "Lula Club",
     "url": "/events/2335421",
-    "attending": "6",
+    "attending": "7",
+    "image": ""
+  },
+  {
+    "name": "Discoscuro",
+    "date": "2026-02-01T00:00:00.000",
+    "start_time": "2026-02-01T23:00:00.000",
+    "end_time": "2026-02-09T05:00:00.000",
+    "artists": "Cono (3), Marina Antih",
+    "venue": "Sala Siroco",
+    "url": "/events/2359987",
+    "attending": "28",
+    "image": ""
+  },
+  {
+    "name": "NODO x DARKMASS GRATIS HASTA LA 01.00H ||| AVNIA (hibryd set) - RO - Maramay - ZBZ",
+    "date": "2026-02-05T00:00:00.000",
+    "start_time": "2026-02-05T23:59:00.000",
+    "end_time": "2026-02-06T06:00:00.000",
+    "artists": "Maramay",
+    "venue": "Next Clubbing",
+    "url": "/events/2360127",
+    "attending": "5",
     "image": ""
   },
   {
@@ -953,7 +205,7 @@
     "artists": "",
     "venue": "Sala Siroco",
     "url": "/events/2351441",
-    "attending": "1",
+    "attending": "3",
     "image": ""
   },
   {
@@ -961,9 +213,42 @@
     "date": "2026-02-05T00:00:00.000",
     "start_time": "2026-02-05T23:59:00.000",
     "end_time": "2026-02-06T06:00:00.000",
-    "artists": "Giulia Mad",
+    "artists": "TRIXXI, Giulia Mad",
     "venue": "Cafe La Palma",
     "url": "/events/2348089",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Antidoto Club: Nellzz + Olivia Babe",
+    "date": "2026-02-05T00:00:00.000",
+    "start_time": "2026-02-05T23:59:00.000",
+    "end_time": "2026-02-06T05:30:00.000",
+    "artists": "Maxvll, Diego Armando, Sany Delitos",
+    "venue": "Sala ART",
+    "url": "/events/2356480",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Los Jueves al Sol presenta: El Chico Jueves",
+    "date": "2026-02-05T00:00:00.000",
+    "start_time": "2026-02-05T23:59:00.000",
+    "end_time": "2026-02-06T06:00:00.000",
+    "artists": "",
+    "venue": "Sala El Sol",
+    "url": "/events/2359406",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Baguette Magique Records feat. Álvaro Cabana + Moulin",
+    "date": "2026-02-05T00:00:00.000",
+    "start_time": "2026-02-05T23:00:00.000",
+    "end_time": "2026-02-06T05:30:00.000",
+    "artists": "Alvaro Cabana, Moulin",
+    "venue": "Club Malasaña",
+    "url": "/events/2359601",
     "attending": "0",
     "image": ""
   },
@@ -975,29 +260,18 @@
     "artists": "Cleric, Red Rooms, Raquel X",
     "venue": "LAB theCLUB",
     "url": "/events/2342891",
-    "attending": "223",
+    "attending": "274",
     "image": ""
   },
   {
-    "name": "ETIENNE DE CRÉCY DJ SET",
+    "name": "ETIENNE DE CRÉCY DJ SET + SIMÓN GARCÍA",
     "date": "2026-02-06T00:00:00.000",
     "start_time": "2026-02-06T23:59:00.000",
     "end_time": "2026-02-07T06:00:00.000",
     "artists": "Etienne De Crecy",
     "venue": "Sala Villanos",
     "url": "/events/2328152",
-    "attending": "104",
-    "image": ""
-  },
-  {
-    "name": "Only Vinyl - Noise Klub",
-    "date": "2026-02-06T00:00:00.000",
-    "start_time": "2026-02-06T23:59:00.000",
-    "end_time": "2026-02-07T06:00:00.000",
-    "artists": "KANØ (ES), Tremūl",
-    "venue": "Specka",
-    "url": "/events/2344970",
-    "attending": "50",
+    "attending": "128",
     "image": ""
   },
   {
@@ -1008,18 +282,29 @@
     "artists": "Brisa Then, Alexis mayer, Tucu (Tucu)",
     "venue": "EL SÓTANO",
     "url": "/events/2343587",
-    "attending": "44",
+    "attending": "57",
     "image": ""
   },
   {
-    "name": "CDVR 4 YEARS: Clone Records Showcase w/ Serge + Frits Wentink",
+    "name": "Only Vinyl - Noise Klub",
     "date": "2026-02-06T00:00:00.000",
     "start_time": "2026-02-06T23:59:00.000",
     "end_time": "2026-02-07T06:00:00.000",
-    "artists": "Serge, Frits Wentink, F. Vinuesa",
-    "venue": "Cadavra",
-    "url": "/events/2340735",
-    "attending": "16",
+    "artists": "KANØ (ES), Tremūl",
+    "venue": "Specka",
+    "url": "/events/2344970",
+    "attending": "51",
+    "image": ""
+  },
+  {
+    "name": "ÓYELO: Caribe Café, Crini, y Guacamayo DJ",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T18:00:00.000",
+    "end_time": "2026-02-07T23:59:00.000",
+    "artists": "",
+    "venue": "EL SÓTANO",
+    "url": "/events/2351458",
+    "attending": "24",
     "image": ""
   },
   {
@@ -1030,7 +315,29 @@
     "artists": "Jelou Music, Lupe Republic",
     "venue": "Hangar48 Club",
     "url": "/events/2346573",
-    "attending": "15",
+    "attending": "21",
+    "image": ""
+  },
+  {
+    "name": "CDVR 4 YEARS: Clone Records Showcase w/ Serge + Frits Wentink",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "Serge, Frits Wentink, F. Vinuesa, Arque, cris sinaka",
+    "venue": "Cadavra",
+    "url": "/events/2340735",
+    "attending": "21",
+    "image": ""
+  },
+  {
+    "name": "Abdon, COLLISION, Simone",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "Abdon, COLLISION",
+    "venue": "Lula Club",
+    "url": "/events/2331375",
+    "attending": "9",
     "image": ""
   },
   {
@@ -1045,25 +352,47 @@
     "image": ""
   },
   {
-    "name": "ÓYELO: Caribe Café, Crini, y Guacamayo DJ",
-    "date": "2026-02-06T00:00:00.000",
-    "start_time": "2026-02-06T18:00:00.000",
-    "end_time": "2026-02-07T23:59:00.000",
-    "artists": "",
-    "venue": "EL SÓTANO",
-    "url": "/events/2351458",
-    "attending": "8",
-    "image": ""
-  },
-  {
-    "name": "COLLISION, Torrione, CAMET",
+    "name": "Gilda Club - Foie Gras & Friends",
     "date": "2026-02-06T00:00:00.000",
     "start_time": "2026-02-06T23:59:00.000",
     "end_time": "2026-02-07T06:00:00.000",
-    "artists": "COLLISION, Torrione, CAMET",
-    "venue": "Lula Club",
-    "url": "/events/2331375",
+    "artists": "Foie Gras, Kenia, Hugo Fontaine, Eli Kapowski",
+    "venue": "Gilda Club",
+    "url": "/events/2357431",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Moojo x La Misa",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "Moojo",
+    "venue": "Fitz Club",
+    "url": "/events/2360186",
     "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "128BPM: SPECIAL BDAY DJ SET + MORE TBA",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "",
+    "venue": "Hangar48 Club",
+    "url": "/events/2356227",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Skin ALPHA: DJ TURBO + NETN + TOM CHIESA",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "DJ TURBO, NETN, TOM CHIESA",
+    "venue": "Skin",
+    "url": "/events/2360579",
+    "attending": "0",
     "image": ""
   },
   {
@@ -1074,40 +403,7 @@
     "artists": "Anika Kunst, ORBE, OXNA",
     "venue": "TBA - Powered by Void Acoustics",
     "url": "/events/2307267",
-    "attending": "173",
-    "image": ""
-  },
-  {
-    "name": "ONYRO presents Yutori",
-    "date": "2026-02-06T00:00:00.000",
-    "start_time": "2026-02-06T22:00:00.000",
-    "end_time": "2026-02-07T08:00:00.000",
-    "artists": "Laksa, Just Claudia, Pillen, Rachael (ES), SH4RIN",
-    "venue": "TBA - LFO",
-    "url": "/events/2342148",
-    "attending": "34",
-    "image": ""
-  },
-  {
-    "name": "NOIZZE W/ GABRIELE TOMA (HOT CREATIONS..) X Private Club",
-    "date": "2026-02-06T00:00:00.000",
-    "start_time": "2026-02-06T23:59:00.000",
-    "end_time": "2026-02-07T10:00:00.000",
-    "artists": "",
-    "venue": "X Private Club",
-    "url": "/events/2350266",
-    "attending": "28",
-    "image": ""
-  },
-  {
-    "name": "sunflwr",
-    "date": "2026-02-06T00:00:00.000",
-    "start_time": "2026-02-06T23:59:00.000",
-    "end_time": "2026-02-07T06:00:00.000",
-    "artists": "sunflwr",
-    "venue": "Goya Social Club",
-    "url": "/events/2332934",
-    "attending": "25",
+    "attending": "204",
     "image": ""
   },
   {
@@ -1118,7 +414,40 @@
     "artists": "Axis Mundi, Deceit, Baldman, Maya B, berta (ES)",
     "venue": "TBA",
     "url": "/events/2345030",
-    "attending": "18",
+    "attending": "73",
+    "image": ""
+  },
+  {
+    "name": "ONYRO presents Yutori",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T22:00:00.000",
+    "end_time": "2026-02-07T08:00:00.000",
+    "artists": "Laksa, Just Claudia, Pillen, Rachael (ES), SH4RIN",
+    "venue": "TBA - LFO",
+    "url": "/events/2342148",
+    "attending": "49",
+    "image": ""
+  },
+  {
+    "name": "NOIZZE W/ GABRIELE TOMA (HOT CREATIONS..) X Private Club",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T10:00:00.000",
+    "artists": "",
+    "venue": "X Private Club",
+    "url": "/events/2350266",
+    "attending": "36",
+    "image": ""
+  },
+  {
+    "name": "sunflwr",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "sunflwr",
+    "venue": "Goya Social Club",
+    "url": "/events/2332934",
+    "attending": "31",
     "image": ""
   },
   {
@@ -1129,7 +458,7 @@
     "artists": "DJ Sonikku, Torvvic",
     "venue": "Yasta Club",
     "url": "/events/2347050",
-    "attending": "15",
+    "attending": "16",
     "image": ""
   },
   {
@@ -1140,7 +469,29 @@
     "artists": "H1pnos1s, QUINCE (2), Bluntz (2), Tasuik, GALGØ, NARCX, PÜCH",
     "venue": "Sala Independance Club",
     "url": "/events/2340731",
-    "attending": "8",
+    "attending": "11",
+    "image": ""
+  },
+  {
+    "name": "NO NAME: ELBIO & DENIS (FREE TICKETS)",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "",
+    "venue": "Tho Club",
+    "url": "/events/2355842",
+    "attending": "17",
+    "image": ""
+  },
+  {
+    "name": "Discoscuro",
+    "date": "2026-02-01T00:00:00.000",
+    "start_time": "2026-02-01T23:00:00.000",
+    "end_time": "2026-02-09T05:00:00.000",
+    "artists": "Cono (3), Marina Antih",
+    "venue": "Sala Siroco",
+    "url": "/events/2359987",
+    "attending": "28",
     "image": ""
   },
   {
@@ -1166,6 +517,28 @@
     "image": ""
   },
   {
+    "name": "Afterparty VVV [Trippin' You]",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:59:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "",
+    "venue": "Sala El Sol",
+    "url": "/events/2359407",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Wonder Kidz feat. Atree + Hannecart",
+    "date": "2026-02-06T00:00:00.000",
+    "start_time": "2026-02-06T23:00:00.000",
+    "end_time": "2026-02-07T06:00:00.000",
+    "artists": "Atree, Hannecart, Taxi Drivers",
+    "venue": "Club Malasaña",
+    "url": "/events/2359603",
+    "attending": "0",
+    "image": ""
+  },
+  {
     "name": "Laster Club presents Chlär, Nørbak & LAIA",
     "date": "2026-02-07T00:00:00.000",
     "start_time": "2026-02-07T23:59:00.000",
@@ -1173,7 +546,7 @@
     "artists": "Chlär, Nørbak, LAIA",
     "venue": "The Bassement",
     "url": "/events/2320468",
-    "attending": "205",
+    "attending": "248",
     "image": ""
   },
   {
@@ -1184,29 +557,7 @@
     "artists": "Kaiser (K S R), Mark Flecher, Systematic Method, Ali-Az, Kevin Matto",
     "venue": "TBA - Powered by: Void Acoustics ",
     "url": "/events/2345052",
-    "attending": "170",
-    "image": ""
-  },
-  {
-    "name": "CDVR 4 YEARS w/ Magda",
-    "date": "2026-02-07T00:00:00.000",
-    "start_time": "2026-02-07T23:59:00.000",
-    "end_time": "2026-02-08T06:00:00.000",
-    "artists": "Magda, Cesc (ES), Avo (ES), Luska, Nurias, TWO EX",
-    "venue": "Cadavra",
-    "url": "/events/2302549",
-    "attending": "18",
-    "image": ""
-  },
-  {
-    "name": "SOULMEEX GIG con Bordello Soundsystem + DCSIS + David Mayer + ISAAC ARGA",
-    "date": "2026-02-07T00:00:00.000",
-    "start_time": "2026-02-07T23:59:00.000",
-    "end_time": "2026-02-08T06:00:00.000",
-    "artists": "Bordello Soundsystem, DCSIS, DAVID MEYER ., ISAAC ARGA",
-    "venue": "Hangar48 Club",
-    "url": "/events/2339336",
-    "attending": "18",
+    "attending": "190",
     "image": ""
   },
   {
@@ -1217,7 +568,18 @@
     "artists": "Club Angel, Ollie Lishman, Skeptic",
     "venue": "Mondo",
     "url": "/events/2333109",
-    "attending": "15",
+    "attending": "41",
+    "image": ""
+  },
+  {
+    "name": "CDVR 4 YEARS w/ Magda",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "Magda, Cesc (ES), Avo (ES), Luska, Nurias, TWO EX",
+    "venue": "Cadavra",
+    "url": "/events/2302549",
+    "attending": "33",
     "image": ""
   },
   {
@@ -1228,18 +590,7 @@
     "artists": "JP Candela, Los Canarios, Torrione",
     "venue": "Lula Club",
     "url": "/events/2337063",
-    "attending": "12",
-    "image": ""
-  },
-  {
-    "name": "Rec: SVNZ, RAFA MUÑOZ, ANA SANT, XAM, VNSTY",
-    "date": "2026-02-07T00:00:00.000",
-    "start_time": "2026-02-07T23:59:00.000",
-    "end_time": "2026-02-08T06:00:00.000",
-    "artists": "SVNZ.",
-    "venue": "Hangar48 Club",
-    "url": "/events/2350733",
-    "attending": "10",
+    "attending": "23",
     "image": ""
   },
   {
@@ -1250,7 +601,40 @@
     "artists": "",
     "venue": "EL SÓTANO",
     "url": "/events/2351458",
-    "attending": "8",
+    "attending": "24",
+    "image": ""
+  },
+  {
+    "name": "SOULMEEX GIG con Bordello Soundsystem + DCSIS + David Mayer + ISAAC ARGA",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "Bordello Soundsystem, DCSIS, DAVID MEYER ., ISAAC ARGA",
+    "venue": "Hangar48 Club",
+    "url": "/events/2339336",
+    "attending": "19",
+    "image": ""
+  },
+  {
+    "name": "Tortilla W/ Criminal Crisis",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T18:30:00.000",
+    "end_time": "2026-02-07T23:30:00.000",
+    "artists": "frankydrama, BOTHER",
+    "venue": "High Club Room",
+    "url": "/events/2356887",
+    "attending": "22",
+    "image": ""
+  },
+  {
+    "name": "Rec: SVNZ, RAFA MUÑOZ, ANA SANT, XAM, VNSTY",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "SVNZ., VNSTY",
+    "venue": "Hangar48 Club",
+    "url": "/events/2350733",
+    "attending": "12",
     "image": ""
   },
   {
@@ -1261,7 +645,7 @@
     "artists": "",
     "venue": "EL SÓTANO",
     "url": "/events/2343568",
-    "attending": "3",
+    "attending": "10",
     "image": ""
   },
   {
@@ -1272,7 +656,18 @@
     "artists": "Le Nomad, David Triana",
     "venue": "Gilda Club",
     "url": "/events/2353573",
-    "attending": "1",
+    "attending": "11",
+    "image": ""
+  },
+  {
+    "name": "Human Halo + Teemon & Poomba + David Ponziano | Halley",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "Human Halo, TEEMON&POOMBA, David Ponziano",
+    "venue": "Specka",
+    "url": "/events/2358927",
+    "attending": "2",
     "image": ""
   },
   {
@@ -1287,6 +682,17 @@
     "image": ""
   },
   {
+    "name": "Skin COLÁGENO: Alvaro Cabana + Diskoan + Vane Madrid",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "Alvaro Cabana, Diskoan, Vane Madrid",
+    "venue": "Skin",
+    "url": "/events/2360548",
+    "attending": "0",
+    "image": ""
+  },
+  {
     "name": "CircoLoco Madrid",
     "date": "2026-02-07T00:00:00.000",
     "start_time": "2026-02-07T22:00:00.000",
@@ -1294,7 +700,7 @@
     "artists": "",
     "venue": "IFEMA",
     "url": "/events/2314854",
-    "attending": "390",
+    "attending": "421",
     "image": ""
   },
   {
@@ -1305,7 +711,7 @@
     "artists": "",
     "venue": "Next Clubbing",
     "url": "/events/2338671",
-    "attending": "35",
+    "attending": "61",
     "image": ""
   },
   {
@@ -1316,7 +722,7 @@
     "artists": "",
     "venue": "X Private Club",
     "url": "/events/2346525",
-    "attending": "33",
+    "attending": "45",
     "image": ""
   },
   {
@@ -1327,7 +733,7 @@
     "artists": "Bea Moy, azul, Truglut, Gael (2), Muriel, Temu.jin",
     "venue": "TBA - Vallecas area",
     "url": "/events/2348900",
-    "attending": "33",
+    "attending": "43",
     "image": ""
   },
   {
@@ -1338,18 +744,18 @@
     "artists": "Marsh",
     "venue": "Café Berlín",
     "url": "/events/2319818",
-    "attending": "18",
+    "attending": "21",
     "image": ""
   },
   {
-    "name": "Tripolism All Night Long",
+    "name": "SPEEDWAX & FRIENDS",
     "date": "2026-02-07T00:00:00.000",
     "start_time": "2026-02-07T23:59:00.000",
     "end_time": "2026-02-08T06:00:00.000",
-    "artists": "Tripolism",
-    "venue": "Istar Club",
-    "url": "/events/2344360",
-    "attending": "9",
+    "artists": "Palimpseste, KZTÀ",
+    "venue": "Sala Siroco",
+    "url": "/events/2359693",
+    "attending": "18",
     "image": ""
   },
   {
@@ -1360,7 +766,18 @@
     "artists": "Luciano",
     "venue": "IFEMA",
     "url": "/events/2353006",
-    "attending": "5",
+    "attending": "13",
+    "image": ""
+  },
+  {
+    "name": "Tripolism All Night Long",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "Tripolism",
+    "venue": "Istar Club",
+    "url": "/events/2344360",
+    "attending": "10",
     "image": ""
   },
   {
@@ -1371,7 +788,51 @@
     "artists": "Alviker, Leofix",
     "venue": "LA Fabryka",
     "url": "/events/2350297",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "Discoscuro",
+    "date": "2026-02-01T00:00:00.000",
+    "start_time": "2026-02-01T23:00:00.000",
+    "end_time": "2026-02-09T05:00:00.000",
+    "artists": "Cono (3), Marina Antih",
+    "venue": "Sala Siroco",
+    "url": "/events/2359987",
+    "attending": "28",
+    "image": ""
+  },
+  {
+    "name": "bose. AQUARIO EDITION (Suciu) at Goya Social Club",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "Suciu, DËKYR",
+    "venue": "Goya Social Club",
+    "url": "/events/2355398",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "CASSANDRAH X LEGIØN",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T08:00:00.000",
+    "artists": "",
+    "venue": "TBA",
+    "url": "/events/2354419",
     "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "Antidoto Club: Ms Nina DJ Set",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:59:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "Diego Armando, Yosef (ES), Maxvll",
+    "venue": "Sala ART",
+    "url": "/events/2356481",
+    "attending": "1",
     "image": ""
   },
   {
@@ -1397,13 +858,24 @@
     "image": ""
   },
   {
-    "name": "CASSANDRAH X LEGIØN",
+    "name": "EL INVERNADERO - FIRST SATURDAYS House & Tech-House en plena naturaleza",
     "date": "2026-02-07T00:00:00.000",
-    "start_time": "2026-02-07T23:59:00.000",
-    "end_time": "2026-02-08T08:00:00.000",
+    "start_time": "2026-02-07T16:30:00.000",
+    "end_time": "2026-02-07T21:00:00.000",
     "artists": "",
-    "venue": "TBA",
-    "url": "/events/2354419",
+    "venue": "el Invernadero de Pino Alto -el Club-",
+    "url": "/events/2356051",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Club Malasaña feat. Aymen + Dichas",
+    "date": "2026-02-07T00:00:00.000",
+    "start_time": "2026-02-07T23:00:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "Aymen, Dichas",
+    "venue": "Club Malasaña",
+    "url": "/events/2359604",
     "attending": "0",
     "image": ""
   },
@@ -1415,7 +887,7 @@
     "artists": "DJ Heartstring, Gerardo Niva, Paige Tomlinson, Kara Okay, Essy, SHEE",
     "venue": "Florida Park",
     "url": "/events/2321031",
-    "attending": "149",
+    "attending": "180",
     "image": ""
   },
   {
@@ -1426,7 +898,7 @@
     "artists": "Drett, Héctor Pericet, Julio Machicado",
     "venue": "EL SÓTANO",
     "url": "/events/2342796",
-    "attending": "16",
+    "attending": "25",
     "image": ""
   },
   {
@@ -1437,7 +909,18 @@
     "artists": "Arok Shiva, Epileptik",
     "venue": "EL SÓTANO",
     "url": "/events/2342873",
-    "attending": "2",
+    "attending": "6",
+    "image": ""
+  },
+  {
+    "name": "Skin MISA: CORTI + DIOW + Reitze",
+    "date": "2026-02-08T00:00:00.000",
+    "start_time": "2026-02-08T23:00:00.000",
+    "end_time": "2026-02-09T05:30:00.000",
+    "artists": "CORTI (ES), DIOW, Reitze",
+    "venue": "Skin",
+    "url": "/events/2357827",
+    "attending": "3",
     "image": ""
   },
   {
@@ -1448,7 +931,7 @@
     "artists": "",
     "venue": "X Private Club",
     "url": "/events/2346525",
-    "attending": "33",
+    "attending": "45",
     "image": ""
   },
   {
@@ -1459,7 +942,18 @@
     "artists": "ADRI.G, PANICK",
     "venue": "Sala Siroco",
     "url": "/events/2342298",
-    "attending": "4",
+    "attending": "8",
+    "image": ""
+  },
+  {
+    "name": "Discoscuro",
+    "date": "2026-02-01T00:00:00.000",
+    "start_time": "2026-02-01T23:00:00.000",
+    "end_time": "2026-02-09T05:00:00.000",
+    "artists": "Cono (3), Marina Antih",
+    "venue": "Sala Siroco",
+    "url": "/events/2359987",
+    "attending": "28",
     "image": ""
   },
   {
@@ -1474,6 +968,50 @@
     "image": ""
   },
   {
+    "name": "Radial Club 07/02",
+    "date": "2026-02-08T00:00:00.000",
+    "start_time": "2026-02-08T00:30:00.000",
+    "end_time": "2026-02-08T06:00:00.000",
+    "artists": "LA INDIA, ines isla",
+    "venue": "Sala UNI Madrid",
+    "url": "/events/2358644",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "MAD RAVE by Elements Cave",
+    "date": "2026-02-11T00:00:00.000",
+    "start_time": "2026-02-11T23:59:00.000",
+    "end_time": "2026-02-12T05:00:00.000",
+    "artists": "",
+    "venue": "Sala El Sol",
+    "url": "/events/2360172",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Ritual For Groove time",
+    "date": "2026-02-11T00:00:00.000",
+    "start_time": "2026-02-11T23:59:00.000",
+    "end_time": "2026-02-12T06:00:00.000",
+    "artists": "Calvin Clarke, Sandra Silver, SEVEN77",
+    "venue": "Oh My Club",
+    "url": "/events/2358303",
+    "attending": "52",
+    "image": ""
+  },
+  {
+    "name": "Elements Cave",
+    "date": "2026-02-11T00:00:00.000",
+    "start_time": "2026-02-11T23:59:00.000",
+    "end_time": "2026-02-12T06:00:00.000",
+    "artists": "",
+    "venue": "Sala El Sol",
+    "url": "/events/2359411",
+    "attending": "0",
+    "image": ""
+  },
+  {
     "name": "David Löhlein / Alba Franch",
     "date": "2026-02-12T00:00:00.000",
     "start_time": "2026-02-12T23:59:00.000",
@@ -1481,7 +1019,18 @@
     "artists": "David Löhlein, Alba Franch",
     "venue": "Mondo",
     "url": "/events/2333111",
-    "attending": "13",
+    "attending": "14",
+    "image": ""
+  },
+  {
+    "name": "CDVR 4 YEARS: Phase Fatale at ANFANG",
+    "date": "2026-02-12T00:00:00.000",
+    "start_time": "2026-02-12T23:59:00.000",
+    "end_time": "2026-02-13T05:30:00.000",
+    "artists": "Phase Fatale, DARK MOON (ES), Redondo",
+    "venue": "Cadavra",
+    "url": "/events/2351139",
+    "attending": "5",
     "image": ""
   },
   {
@@ -1496,13 +1045,57 @@
     "image": ""
   },
   {
-    "name": "Phase Fatale at ANFANG",
+    "name": "CLUB DEL FOMO invita a Elements Cave (entrada gratis)",
+    "date": "2026-02-12T00:00:00.000",
+    "start_time": "2026-02-12T22:00:00.000",
+    "end_time": "2026-02-13T04:00:00.000",
+    "artists": "Nixy, Pulpix",
+    "venue": "Gilda Club",
+    "url": "/events/2355427",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "Jolie X PANDORA",
+    "date": "2026-02-12T00:00:00.000",
+    "start_time": "2026-02-12T23:59:00.000",
+    "end_time": "2026-02-13T06:00:00.000",
+    "artists": "AMANN",
+    "venue": "Lula Club",
+    "url": "/events/2358929",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "Antidoto Club: Metrika DJ Set",
     "date": "2026-02-12T00:00:00.000",
     "start_time": "2026-02-12T23:59:00.000",
     "end_time": "2026-02-13T05:30:00.000",
-    "artists": "Phase Fatale, DARK MOON (ES), Redondo",
-    "venue": "Cadavra",
-    "url": "/events/2351139",
+    "artists": "Diego Armando",
+    "venue": "Sala ART",
+    "url": "/events/2356600",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Los Jueves al Sol presenta: El Chico Jueves",
+    "date": "2026-02-12T00:00:00.000",
+    "start_time": "2026-02-12T23:59:00.000",
+    "end_time": "2026-02-13T06:00:00.000",
+    "artists": "",
+    "venue": "Sala El Sol",
+    "url": "/events/2359413",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Climax",
+    "date": "2026-02-12T00:00:00.000",
+    "start_time": "2026-02-12T23:00:00.000",
+    "end_time": "2026-02-13T05:30:00.000",
+    "artists": "",
+    "venue": "Club Malasaña",
+    "url": "/events/2359606",
     "attending": "0",
     "image": ""
   },
@@ -1514,7 +1107,7 @@
     "artists": "Adam Beyer",
     "venue": "LAB theCLUB",
     "url": "/events/2323222",
-    "attending": "798",
+    "attending": "913",
     "image": ""
   },
   {
@@ -1525,18 +1118,18 @@
     "artists": "Max Styler",
     "venue": "Lula Club",
     "url": "/events/2305081",
-    "attending": "170",
+    "attending": "191",
     "image": ""
   },
   {
-    "name": "Lindstrøm Live",
+    "name": "Lindstrøm Live + ACID HERO / Toni Aparisi",
     "date": "2026-02-13T00:00:00.000",
     "start_time": "2026-02-13T23:59:00.000",
     "end_time": "2026-02-14T06:00:00.000",
-    "artists": "",
+    "artists": "Lindstrom, ACID HERO, Toni Aparisi",
     "venue": "Sala Villanos",
     "url": "/events/2329674",
-    "attending": "59",
+    "attending": "70",
     "image": ""
   },
   {
@@ -1547,7 +1140,7 @@
     "artists": "Hamish & Toby, Nurias",
     "venue": "Cadavra",
     "url": "/events/2302558",
-    "attending": "19",
+    "attending": "25",
     "image": ""
   },
   {
@@ -1558,6 +1151,17 @@
     "artists": "NaN",
     "venue": "Hangar48 Club",
     "url": "/events/2348329",
+    "attending": "16",
+    "image": ""
+  },
+  {
+    "name": "AfterSiesta: Raisa b2b DHERMIDA, Chooselife, JaviRec",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T18:00:00.000",
+    "end_time": "2026-02-13T23:59:00.000",
+    "artists": "Raisa, DHERMIDA",
+    "venue": "EL SÓTANO",
+    "url": "/events/2343608",
     "attending": "12",
     "image": ""
   },
@@ -1569,18 +1173,7 @@
     "artists": "Ribé",
     "venue": "Specka",
     "url": "/events/2347044",
-    "attending": "6",
-    "image": ""
-  },
-  {
-    "name": "AfterSiesta: Raisa b2b DHERMIDA, Chooselife, JaviRec",
-    "date": "2026-02-13T00:00:00.000",
-    "start_time": "2026-02-13T18:00:00.000",
-    "end_time": "2026-02-13T23:59:00.000",
-    "artists": "Raisa, DHERMIDA",
-    "venue": "EL SÓTANO",
-    "url": "/events/2343608",
-    "attending": "5",
+    "attending": "8",
     "image": ""
   },
   {
@@ -1591,7 +1184,62 @@
     "artists": "",
     "venue": "EL SÓTANO",
     "url": "/events/2344235",
-    "attending": "2",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "GUILTY PLEASURES BY BPM",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T23:59:00.000",
+    "end_time": "2026-02-14T06:00:00.000",
+    "artists": "",
+    "venue": "Hangar48 Club",
+    "url": "/events/2357487",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Gilda Club - DVICE DOWNTOWN",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T23:59:00.000",
+    "end_time": "2026-02-14T06:00:00.000",
+    "artists": "Boranimals, Yahaira, Mostly James, Rodrigue Darbon",
+    "venue": "Gilda Club",
+    "url": "/events/2357436",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "Lescat · Cris-H + Nico Demattei + GINO GENTILI",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T23:59:00.000",
+    "end_time": "2026-02-14T06:00:00.000",
+    "artists": "Cris-H, Demattei, GINO GENTILI",
+    "venue": "berlinClub",
+    "url": "/events/2360107",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Elements Cave",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T23:59:00.000",
+    "end_time": "2026-02-14T06:00:00.000",
+    "artists": "",
+    "venue": "Next Clubbing",
+    "url": "/events/2360176",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "LA CASITA X Skin",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T23:59:00.000",
+    "end_time": "2026-02-14T06:00:00.000",
+    "artists": "Alexy, DJ TURBO, THIRTEEN DOZE, VCO",
+    "venue": "Skin",
+    "url": "/events/2360544",
+    "attending": "0",
     "image": ""
   },
   {
@@ -1602,18 +1250,7 @@
     "artists": "Lena Willikens, Lukas Klötz, Texture (ES), Javi Lier",
     "venue": "Lasociaciøn",
     "url": "/events/2340018",
-    "attending": "36",
-    "image": ""
-  },
-  {
-    "name": "Echo Alpha Recordings Release Party",
-    "date": "2026-02-13T00:00:00.000",
-    "start_time": "2026-02-13T23:59:00.000",
-    "end_time": "2026-02-14T08:00:00.000",
-    "artists": "DJ F (ES), Nicolás Mirón, DJ Feet",
-    "venue": "TBA - Madrid",
-    "url": "/events/2351199",
-    "attending": "24",
+    "attending": "69",
     "image": ""
   },
   {
@@ -1624,7 +1261,18 @@
     "artists": "",
     "venue": "Araña Club",
     "url": "/events/2351377",
-    "attending": "24",
+    "attending": "28",
+    "image": ""
+  },
+  {
+    "name": "Echo Alpha Recordings Release Party",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T23:59:00.000",
+    "end_time": "2026-02-14T08:00:00.000",
+    "artists": "I-94, DJ F (ES), Nicolás Mirón, DJ Feet",
+    "venue": "TBA - Madrid",
+    "url": "/events/2351199",
+    "attending": "28",
     "image": ""
   },
   {
@@ -1635,7 +1283,7 @@
     "artists": "Miguel Rivas, Venus de Milo",
     "venue": "TBA - Studio76",
     "url": "/events/2350054",
-    "attending": "9",
+    "attending": "14",
     "image": ""
   },
   {
@@ -1646,6 +1294,17 @@
     "artists": "",
     "venue": "ART Madrid Club",
     "url": "/events/2346722",
+    "attending": "10",
+    "image": ""
+  },
+  {
+    "name": "PROMISED WAX [EXTENDED SESSION] AUDIOPHILE",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T20:00:00.000",
+    "end_time": "2026-02-14T06:00:00.000",
+    "artists": "Palimpseste, Manu Eme, crespox",
+    "venue": "Tempo",
+    "url": "/events/2357802",
     "attending": "6",
     "image": ""
   },
@@ -1657,6 +1316,28 @@
     "artists": "Alviker, Asslex",
     "venue": "Cristo Social Club",
     "url": "/events/2351174",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Mercabrrrrrrap",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T23:59:00.000",
+    "end_time": "2026-02-14T06:00:00.000",
+    "artists": "Merca Bae, Don Fuegote, Florentino, La Cachetona",
+    "venue": "Sala Siroco",
+    "url": "/events/2359404",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "La Luz feat. Phran",
+    "date": "2026-02-13T00:00:00.000",
+    "start_time": "2026-02-13T23:00:00.000",
+    "end_time": "2026-02-14T06:00:00.000",
+    "artists": "Phran, Gazzi",
+    "venue": "Club Malasaña",
+    "url": "/events/2359610",
     "attending": "0",
     "image": ""
   },
@@ -1668,7 +1349,7 @@
     "artists": "Dj Pepo, Cristian Varela, Viktör, MZDZ",
     "venue": "LAB theCLUB",
     "url": "/events/2296060",
-    "attending": "255",
+    "attending": "280",
     "image": ""
   },
   {
@@ -1679,7 +1360,7 @@
     "artists": "Henry Saiz, Javi Garza, Starni",
     "venue": "Hangar48 Club",
     "url": "/events/2324433",
-    "attending": "158",
+    "attending": "171",
     "image": ""
   },
   {
@@ -1690,7 +1371,7 @@
     "artists": "Quelza, Verraco, Shadow Hrym (ES)",
     "venue": "The Bassement",
     "url": "/events/2320469",
-    "attending": "67",
+    "attending": "83",
     "image": ""
   },
   {
@@ -1698,10 +1379,21 @@
     "date": "2026-02-14T00:00:00.000",
     "start_time": "2026-02-14T18:00:00.000",
     "end_time": "2026-02-15T12:00:00.000",
-    "artists": "",
+    "artists": "Kastil, Judy (ES), Cintia Martís, Hector MAD",
     "venue": "TBA - Club 110",
     "url": "/events/2335417",
-    "attending": "33",
+    "attending": "42",
+    "image": ""
+  },
+  {
+    "name": "Triffulca - Specka Club",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T23:59:00.000",
+    "end_time": "2026-02-15T06:00:00.000",
+    "artists": "VERSVS, Dyans",
+    "venue": "Specka",
+    "url": "/events/2355815",
+    "attending": "24",
     "image": ""
   },
   {
@@ -1712,18 +1404,7 @@
     "artists": "Charlotte (FR), Jose Daguerre, TWO EX, KATIA, DIGUES",
     "venue": "Cadavra",
     "url": "/events/2341411",
-    "attending": "11",
-    "image": ""
-  },
-  {
-    "name": "Spray / Demi Riquísimo / Gerardo Niva",
-    "date": "2026-02-14T00:00:00.000",
-    "start_time": "2026-02-14T23:59:00.000",
-    "end_time": "2026-02-15T06:00:00.000",
-    "artists": "Spray, Gerardo Niva",
-    "venue": "Mondo",
-    "url": "/events/2333113",
-    "attending": "4",
+    "attending": "20",
     "image": ""
   },
   {
@@ -1734,6 +1415,17 @@
     "artists": "",
     "venue": "EL SÓTANO",
     "url": "/events/2344312",
+    "attending": "13",
+    "image": ""
+  },
+  {
+    "name": "Spray / Demi Riquísimo / Gerardo Niva",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T23:59:00.000",
+    "end_time": "2026-02-15T06:00:00.000",
+    "artists": "Spray, Gerardo Niva",
+    "venue": "Mondo",
+    "url": "/events/2333113",
     "attending": "5",
     "image": ""
   },
@@ -1745,7 +1437,7 @@
     "artists": "Fernanda Arrau, BELLA (NL)",
     "venue": "Gilda Club",
     "url": "/events/2351271",
-    "attending": "2",
+    "attending": "5",
     "image": ""
   },
   {
@@ -1756,7 +1448,7 @@
     "artists": "Landikhan",
     "venue": "Lula Club",
     "url": "/events/2343606",
-    "attending": "0",
+    "attending": "6",
     "image": ""
   },
   {
@@ -1767,7 +1459,40 @@
     "artists": "",
     "venue": "Hangar48 Club",
     "url": "/events/2354767",
+    "attending": "7",
+    "image": ""
+  },
+  {
+    "name": "CC: Disco! + Gaspar & Elena",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T23:59:00.000",
+    "end_time": "2026-02-15T06:00:00.000",
+    "artists": "CC:DISCO!, Gaspar Antuña",
+    "venue": "berlinClub",
+    "url": "/events/2360108",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "YES, BITCH! X SOMOS LAS X Skin",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T23:59:00.000",
+    "end_time": "2026-02-15T06:00:00.000",
+    "artists": "Ezekiel Monjes, Daddy Squad, Ferdiyei",
+    "venue": "Skin",
+    "url": "/events/2360556",
     "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "NITRO VALENTINE'S DAY: 2FUNK2FURIOUS + SANDWICHO B2B ALBYTA + MVPDJ B2B B3RME + Many more DJs",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T23:59:00.000",
+    "end_time": "2026-02-15T09:00:00.000",
+    "artists": "Sandwicho, MVPDJ, Pulpix, Nixy",
+    "venue": "TBA - ENTITY powered by Void Acoustics",
+    "url": "/events/2355539",
+    "attending": "420",
     "image": ""
   },
   {
@@ -1778,7 +1503,7 @@
     "artists": "blk., ECZODIA, Hades, LESSSS, Luca Agnelli, OMAKS, Shlømo, William Luck, Amelie Lens",
     "venue": "Fabrik",
     "url": "/events/2328758",
-    "attending": "88",
+    "attending": "106",
     "image": ""
   },
   {
@@ -1789,7 +1514,7 @@
     "artists": "Olive F",
     "venue": "The Bassement",
     "url": "/events/2353529",
-    "attending": "27",
+    "attending": "104",
     "image": ""
   },
   {
@@ -1800,18 +1525,7 @@
     "artists": "White Solar Dog, Luska, HCOR, Semuta",
     "venue": "TBA",
     "url": "/events/2341783",
-    "attending": "23",
-    "image": ""
-  },
-  {
-    "name": "Recycled Sound_02",
-    "date": "2026-02-14T00:00:00.000",
-    "start_time": "2026-02-14T23:59:00.000",
-    "end_time": "2026-02-15T18:00:00.000",
-    "artists": "Xpansul, Jesus Riaño, Wavesound, Oscar Blue, MDTCODE, TURIAL",
-    "venue": "Lasociaciøn",
-    "url": "/events/2289191",
-    "attending": "16",
+    "attending": "44",
     "image": ""
   },
   {
@@ -1822,7 +1536,18 @@
     "artists": "Ato Rodriguez",
     "venue": "Rastro Live Studio",
     "url": "/events/2348108",
-    "attending": "9",
+    "attending": "29",
+    "image": ""
+  },
+  {
+    "name": "Recycled Sound_02",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T23:59:00.000",
+    "end_time": "2026-02-15T18:00:00.000",
+    "artists": "Xpansul, Jesus Riaño, Wavesound, Oscar Blue, MDTCODE, TURIAL",
+    "venue": "Lasociaciøn",
+    "url": "/events/2289191",
+    "attending": "23",
     "image": ""
   },
   {
@@ -1833,7 +1558,40 @@
     "artists": "",
     "venue": "Sala Siroco",
     "url": "/events/2253298",
-    "attending": "2",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "Tortilla W/ Marraco + guest",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T18:30:00.000",
+    "end_time": "2026-02-14T23:30:00.000",
+    "artists": "Marraco",
+    "venue": "High Club Room",
+    "url": "/events/2356890",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "LA CHISMOTEKA: SAN VALENTÍN",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T23:59:00.000",
+    "end_time": "2026-02-15T06:00:00.000",
+    "artists": "",
+    "venue": "Sala ART",
+    "url": "/events/2357433",
+    "attending": "6",
+    "image": ""
+  },
+  {
+    "name": "Pachanga feat. mad miran",
+    "date": "2026-02-14T00:00:00.000",
+    "start_time": "2026-02-14T23:00:00.000",
+    "end_time": "2026-02-15T06:00:00.000",
+    "artists": "Pachanga, mad miran",
+    "venue": "Club Malasaña",
+    "url": "/events/2359614",
+    "attending": "0",
     "image": ""
   },
   {
@@ -1859,6 +1617,50 @@
     "image": ""
   },
   {
+    "name": "Skin MISA X KREAM: Alviker + DAVID MENA + Reitze",
+    "date": "2026-02-15T00:00:00.000",
+    "start_time": "2026-02-15T23:00:00.000",
+    "end_time": "2026-02-16T05:30:00.000",
+    "artists": "Alviker, DAVID MENA, Reitze",
+    "venue": "Skin",
+    "url": "/events/2357831",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "MAD RAVE by Elements Cave",
+    "date": "2026-02-18T00:00:00.000",
+    "start_time": "2026-02-18T23:59:00.000",
+    "end_time": "2026-02-19T05:00:00.000",
+    "artists": "",
+    "venue": "Sala El Sol",
+    "url": "/events/2360173",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Joe Hunt / Mirage",
+    "date": "2026-02-19T00:00:00.000",
+    "start_time": "2026-02-19T23:59:00.000",
+    "end_time": "2026-02-20T05:30:00.000",
+    "artists": "",
+    "venue": "Mondo",
+    "url": "/events/2333116",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "DORP presents Ale De Tuglie",
+    "date": "2026-02-19T00:00:00.000",
+    "start_time": "2026-02-19T23:59:00.000",
+    "end_time": "2026-02-20T05:30:00.000",
+    "artists": "Ale De Tuglie",
+    "venue": "The Bassement",
+    "url": "/events/2353572",
+    "attending": "3",
+    "image": ""
+  },
+  {
     "name": "DANZE AFRIKA CLUB: DJ MBA, DJ Mois",
     "date": "2026-02-19T00:00:00.000",
     "start_time": "2026-02-19T23:59:00.000",
@@ -1870,18 +1672,7 @@
     "image": ""
   },
   {
-    "name": "Joe Hunt / Mirage",
-    "date": "2026-02-19T00:00:00.000",
-    "start_time": "2026-02-19T23:59:00.000",
-    "end_time": "2026-02-20T05:30:00.000",
-    "artists": "",
-    "venue": "Mondo",
-    "url": "/events/2333116",
-    "attending": "1",
-    "image": ""
-  },
-  {
-    "name": "Olivia Mendez at ANFANG",
+    "name": "CDVR 4 YEARS: Olivia Mendez at ANFANG",
     "date": "2026-02-19T00:00:00.000",
     "start_time": "2026-02-19T23:59:00.000",
     "end_time": "2026-02-20T05:30:00.000",
@@ -1892,14 +1683,14 @@
     "image": ""
   },
   {
-    "name": "DORP presents Ale De Tuglie",
+    "name": "(Venta externa) Laurence Guy en microdosis - Café Berlín, Madrid",
     "date": "2026-02-19T00:00:00.000",
-    "start_time": "2026-02-19T23:59:00.000",
-    "end_time": "2026-02-20T05:30:00.000",
-    "artists": "Ale De Tuglie",
-    "venue": "The Bassement",
-    "url": "/events/2353572",
-    "attending": "0",
+    "start_time": "2026-02-19T20:00:00.000",
+    "end_time": "2026-02-19T23:30:00.000",
+    "artists": "Laurence Guy",
+    "venue": "Café Berlín",
+    "url": "/events/2329059",
+    "attending": "28",
     "image": ""
   },
   {
@@ -1910,18 +1701,18 @@
     "artists": "ilbroccolovolante, materia hache, zikade, ESTRELLA OR",
     "venue": "Sala Siroco",
     "url": "/events/2337742",
-    "attending": "24",
+    "attending": "25",
     "image": ""
   },
   {
-    "name": "(Venta externa) Laurence Guy en microdosis - Café Berlín, Madrid",
+    "name": "CLUB DEL FOMO invita a Ocho (entrada gratis)",
     "date": "2026-02-19T00:00:00.000",
-    "start_time": "2026-02-19T20:00:00.000",
-    "end_time": "2026-02-19T23:30:00.000",
-    "artists": "Laurence Guy",
-    "venue": "Café Berlín",
-    "url": "/events/2329059",
-    "attending": "23",
+    "start_time": "2026-02-19T22:00:00.000",
+    "end_time": "2026-02-20T04:00:00.000",
+    "artists": "Anton Reise",
+    "venue": "Gilda Club",
+    "url": "/events/2355440",
+    "attending": "14",
     "image": ""
   },
   {
@@ -1932,7 +1723,7 @@
     "artists": "Stavroz",
     "venue": "Mon Live",
     "url": "/events/2322962",
-    "attending": "11",
+    "attending": "12",
     "image": ""
   },
   {
@@ -1947,14 +1738,36 @@
     "image": ""
   },
   {
-    "name": "QUANTIC DJ SET",
+    "name": "Antidoto Club: Gualtiero + Niesa",
+    "date": "2026-02-19T00:00:00.000",
+    "start_time": "2026-02-19T23:59:00.000",
+    "end_time": "2026-02-20T05:30:00.000",
+    "artists": "Maxvll, Yosef (ES), Diego Armando",
+    "venue": "Sala ART",
+    "url": "/events/2356495",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Cinema Verité feat. Vandorta",
+    "date": "2026-02-19T00:00:00.000",
+    "start_time": "2026-02-19T23:00:00.000",
+    "end_time": "2026-02-20T05:30:00.000",
+    "artists": "Vandorta, DJ Feet, Dichas",
+    "venue": "Club Malasaña",
+    "url": "/events/2359616",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "QUANTIC DJ SET + Madame Excuse",
     "date": "2026-02-20T00:00:00.000",
     "start_time": "2026-02-20T23:59:00.000",
     "end_time": "2026-02-21T06:00:00.000",
-    "artists": "",
+    "artists": "Quantic, Madame Excuse",
     "venue": "Sala Villanos",
     "url": "/events/2326005",
-    "attending": "150",
+    "attending": "233",
     "image": ""
   },
   {
@@ -1965,7 +1778,7 @@
     "artists": "Speedy J, DJ Nobu, SAINT SINNER",
     "venue": "LAB theCLUB",
     "url": "/events/2262540",
-    "attending": "86",
+    "attending": "108",
     "image": ""
   },
   {
@@ -1976,7 +1789,7 @@
     "artists": "DimGrøve",
     "venue": "Specka",
     "url": "/events/2348915",
-    "attending": "38",
+    "attending": "45",
     "image": ""
   },
   {
@@ -1984,10 +1797,21 @@
     "date": "2026-02-20T00:00:00.000",
     "start_time": "2026-02-20T23:59:00.000",
     "end_time": "2026-02-21T06:00:00.000",
-    "artists": "Giulia Mad",
+    "artists": "TRIXXI, Giulia Mad",
     "venue": "EL SÓTANO",
     "url": "/events/2344342",
     "attending": "12",
+    "image": ""
+  },
+  {
+    "name": "FRANC FALA, JP Candela, CAMET",
+    "date": "2026-02-20T00:00:00.000",
+    "start_time": "2026-02-20T23:59:00.000",
+    "end_time": "2026-02-21T06:00:00.000",
+    "artists": "JP Candela, CAMET",
+    "venue": "Lula Club",
+    "url": "/events/2350144",
+    "attending": "10",
     "image": ""
   },
   {
@@ -1998,17 +1822,28 @@
     "artists": "Anthea, Jos, Luska",
     "venue": "Cadavra",
     "url": "/events/2342293",
-    "attending": "5",
+    "attending": "8",
     "image": ""
   },
   {
-    "name": "JP Candela",
+    "name": "Gilda Club - Cee Excursions",
     "date": "2026-02-20T00:00:00.000",
     "start_time": "2026-02-20T23:59:00.000",
     "end_time": "2026-02-21T06:00:00.000",
-    "artists": "JP Candela",
-    "venue": "Lula Club",
-    "url": "/events/2350144",
+    "artists": "Federico Formica, Lucient, SYSTEMA, Yahaira, DIGUES",
+    "venue": "Gilda Club",
+    "url": "/events/2357440",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "Skin ALPHA: Alejandro Gata + LA INDIA + LE GOMMEZ",
+    "date": "2026-02-20T00:00:00.000",
+    "start_time": "2026-02-20T23:59:00.000",
+    "end_time": "2026-02-21T06:00:00.000",
+    "artists": "Alejandro Gata, LA INDIA",
+    "venue": "Skin",
+    "url": "/events/2360580",
     "attending": "0",
     "image": ""
   },
@@ -2020,7 +1855,18 @@
     "artists": "Melchiorr, Nepōmuk",
     "venue": "Sala Muv",
     "url": "/events/2345061",
-    "attending": "67",
+    "attending": "129",
+    "image": ""
+  },
+  {
+    "name": "UNDERHELL x AVCI + Laviena + SE|BEL",
+    "date": "2026-02-20T00:00:00.000",
+    "start_time": "2026-02-20T23:59:00.000",
+    "end_time": "2026-02-21T06:00:00.000",
+    "artists": "AVCI, Laviena, BELCEBÚ, Babylon Whore",
+    "venue": "Next Clubbing",
+    "url": "/events/2348112",
+    "attending": "104",
     "image": ""
   },
   {
@@ -2031,7 +1877,7 @@
     "artists": "oma totem, Javier Gallardo, David Hornung, Keras, Regue, Avo (ES), Pillen, Gancho, John Garcia",
     "venue": "TBA - Secret Location",
     "url": "/events/2342883",
-    "attending": "62",
+    "attending": "77",
     "image": ""
   },
   {
@@ -2042,40 +1888,18 @@
     "artists": "stranger (NL), radd, Zarco",
     "venue": "Lasociaciøn",
     "url": "/events/2336901",
-    "attending": "60",
+    "attending": "62",
     "image": ""
   },
   {
-    "name": "CHRØMA: TBA",
+    "name": "CHRØMA: Franck - 3h special extended set",
     "date": "2026-02-20T00:00:00.000",
     "start_time": "2026-02-20T23:59:00.000",
     "end_time": "2026-02-21T06:00:00.000",
-    "artists": "",
+    "artists": "Franck",
     "venue": "Sala ART",
     "url": "/events/2345272",
-    "attending": "41",
-    "image": ""
-  },
-  {
-    "name": "Friend Zone (FLINTA Open Decks)",
-    "date": "2026-02-20T00:00:00.000",
-    "start_time": "2026-02-20T23:00:00.000",
-    "end_time": "2026-02-21T03:30:00.000",
-    "artists": "materia hache",
-    "venue": "Oculto Bar",
-    "url": "/events/2341925",
-    "attending": "13",
-    "image": ""
-  },
-  {
-    "name": "UNDERHELL x AVCI + Laviena + SE|BEL",
-    "date": "2026-02-20T00:00:00.000",
-    "start_time": "2026-02-20T23:59:00.000",
-    "end_time": "2026-02-21T06:00:00.000",
-    "artists": "AVCI, Laviena, BELCEBÚ",
-    "venue": "Next Clubbing",
-    "url": "/events/2348112",
-    "attending": "6",
+    "attending": "47",
     "image": ""
   },
   {
@@ -2086,7 +1910,29 @@
     "artists": "Alex Now",
     "venue": "Goya Social Club",
     "url": "/events/2351240",
-    "attending": "10",
+    "attending": "26",
+    "image": ""
+  },
+  {
+    "name": "Friend Zone (FLINTA Open Decks)",
+    "date": "2026-02-20T00:00:00.000",
+    "start_time": "2026-02-20T23:00:00.000",
+    "end_time": "2026-02-21T03:30:00.000",
+    "artists": "",
+    "venue": "Oculto Bar",
+    "url": "/events/2341925",
+    "attending": "14",
+    "image": ""
+  },
+  {
+    "name": "Ketapasando with L.F.T",
+    "date": "2026-02-20T00:00:00.000",
+    "start_time": "2026-02-20T23:59:00.000",
+    "end_time": "2026-02-21T06:00:00.000",
+    "artists": "L.F.T., Angry Baffle, Paloma de Casso",
+    "venue": "Cafe La Palma",
+    "url": "/events/2356370",
+    "attending": "3",
     "image": ""
   },
   {
@@ -2119,6 +1965,17 @@
     "artists": "Ghïgø",
     "venue": "TBA - Minusa Music Club",
     "url": "/events/2355053",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Blasé feat. DJ Fuckoff",
+    "date": "2026-02-20T00:00:00.000",
+    "start_time": "2026-02-20T23:00:00.000",
+    "end_time": "2026-02-21T06:00:00.000",
+    "artists": "DJ Fuckoff, Miqui Brightside",
+    "venue": "Club Malasaña",
+    "url": "/events/2359617",
     "attending": "0",
     "image": ""
   },
@@ -2130,7 +1987,7 @@
     "artists": "Partiboi69, Gerardo Niva",
     "venue": "Mondo",
     "url": "/events/2333119",
-    "attending": "40",
+    "attending": "63",
     "image": ""
   },
   {
@@ -2152,7 +2009,7 @@
     "artists": "Francesco Farfa, Balheim, Harut Hov",
     "venue": "Cadavra",
     "url": "/events/2345848",
-    "attending": "6",
+    "attending": "11",
     "image": ""
   },
   {
@@ -2163,29 +2020,7 @@
     "artists": "AAfrAA, Nic Vesperi",
     "venue": "LAB theCLUB",
     "url": "/events/2342813",
-    "attending": "4",
-    "image": ""
-  },
-  {
-    "name": "CACAO presents Anthony Godfather ALL NIGHT LONG",
-    "date": "2026-02-21T00:00:00.000",
-    "start_time": "2026-02-21T23:00:00.000",
-    "end_time": "2026-02-22T06:00:00.000",
-    "artists": "Anthony Godfather (2)",
-    "venue": "The Bassement",
-    "url": "/events/2352360",
-    "attending": "4",
-    "image": ""
-  },
-  {
-    "name": "Wherever: Yins, Hadex, Myke Easy, Javier de la Vega, Seven ",
-    "date": "2026-02-21T00:00:00.000",
-    "start_time": "2026-02-21T23:59:00.000",
-    "end_time": "2026-02-22T06:00:00.000",
-    "artists": "Yins, Hadex (2), Seven",
-    "venue": "EL SÓTANO",
-    "url": "/events/2344352",
-    "attending": "3",
+    "attending": "10",
     "image": ""
   },
   {
@@ -2196,17 +2031,94 @@
     "artists": "Ana Rs, Xcire, Andrés Ov",
     "venue": "Specka",
     "url": "/events/2351585",
+    "attending": "8",
+    "image": ""
+  },
+  {
+    "name": "Tortilla X Recreo",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T18:30:00.000",
+    "end_time": "2026-02-21T23:30:00.000",
+    "artists": "",
+    "venue": "High Club Room",
+    "url": "/events/2356892",
+    "attending": "8",
+    "image": ""
+  },
+  {
+    "name": "CACAO presents Anthony Godfather ALL NIGHT LONG",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:00:00.000",
+    "end_time": "2026-02-22T06:00:00.000",
+    "artists": "Anthony Godfather (2)",
+    "venue": "The Bassement",
+    "url": "/events/2352360",
+    "attending": "5",
+    "image": ""
+  },
+  {
+    "name": "Gilda Club - Pulso",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:59:00.000",
+    "end_time": "2026-02-22T06:00:00.000",
+    "artists": "Arkademode, Toni Aparisi, lebollet, Mar Bravo",
+    "venue": "Gilda Club",
+    "url": "/events/2357442",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Wherever: Yins, Hadex, Myke Easy, Javier de la Vega, Seven ",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:59:00.000",
+    "end_time": "2026-02-22T06:00:00.000",
+    "artists": "Yins, Hadex (2), Javier de la Vega, Seven",
+    "venue": "EL SÓTANO",
+    "url": "/events/2344352",
     "attending": "3",
     "image": ""
   },
   {
-    "name": "Marea, Torrione, CAMET",
+    "name": "SLAM: ALEX$€¥, BLADE, TEX, DUAL IMPACT, LEO RIVERA, SERILLA",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T18:00:00.000",
+    "end_time": "2026-02-21T23:59:00.000",
+    "artists": "",
+    "venue": "Hangar48 Club",
+    "url": "/events/2359418",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Marea, Torrione, CAMET, JP Candela",
     "date": "2026-02-21T00:00:00.000",
     "start_time": "2026-02-21T23:59:00.000",
     "end_time": "2026-02-22T06:00:00.000",
-    "artists": "Torrione, CAMET",
+    "artists": "Torrione, CAMET, JP Candela",
     "venue": "Lula Club",
     "url": "/events/2350155",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "COLLISION, Torrione, CAMET",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:59:00.000",
+    "end_time": "2026-02-22T06:00:00.000",
+    "artists": "COLLISION, Torrione, CAMET",
+    "venue": "Lula Club",
+    "url": "/events/2358267",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Mantra Club - Specka Club (tardes)",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T18:00:00.000",
+    "end_time": "2026-02-21T23:00:00.000",
+    "artists": "",
+    "venue": "Specka",
+    "url": "/events/2359857",
     "attending": "0",
     "image": ""
   },
@@ -2218,7 +2130,29 @@
     "artists": "SHXCXCHCXSH, Speaks Silence, Irazu, Blaark, MÄEM",
     "venue": "Lasociaciøn",
     "url": "/events/2303609",
-    "attending": "69",
+    "attending": "83",
+    "image": ""
+  },
+  {
+    "name": "Visceral Room",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:59:00.000",
+    "end_time": "2026-02-22T09:00:00.000",
+    "artists": "Leiras, Hexxe, Redondoo, Fgdj, H0H",
+    "venue": "TBA - Powered by ENTITY",
+    "url": "/events/2354010",
+    "attending": "14",
+    "image": ""
+  },
+  {
+    "name": "FORMA with HENRY (People & Places), Gala, Aedis, Juanito Jones & Fuentes-Guerra",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:59:00.000",
+    "end_time": "2026-02-22T08:00:00.000",
+    "artists": "Gala (ES), Aedis, Juanito Jones, Fuentes-Guerra",
+    "venue": "TBA",
+    "url": "/events/2358974",
+    "attending": "13",
     "image": ""
   },
   {
@@ -2240,7 +2174,7 @@
     "artists": "Enzo Leep, F.E.X, Human Halo, Vincent Giumelli, Giorgio Robles",
     "venue": "Sala Muv",
     "url": "/events/2354040",
-    "attending": "4",
+    "attending": "6",
     "image": ""
   },
   {
@@ -2248,7 +2182,7 @@
     "date": "2026-02-21T00:00:00.000",
     "start_time": "2026-02-21T23:00:00.000",
     "end_time": "2026-02-22T10:00:00.000",
-    "artists": "KRSDJ",
+    "artists": "DIAEN, KRSDJ",
     "venue": "Inklub Madrid",
     "url": "/events/2345090",
     "attending": "3",
@@ -2266,6 +2200,39 @@
     "image": ""
   },
   {
+    "name": "Bohrium Showcase with Sepp",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:59:00.000",
+    "end_time": "2026-02-22T06:00:00.000",
+    "artists": "Sepp, Angel Mosteiro, Giorgio Robles, coozy, Carla Martínez",
+    "venue": "Goya Social Club",
+    "url": "/events/2358813",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "Antidoto Club x Rinse FM: G33 + Ghoulish + Pablo Aristimuño",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:59:00.000",
+    "end_time": "2026-02-22T06:00:00.000",
+    "artists": "Ghoulish, Diego Armando, Maxvll",
+    "venue": "Sala ART",
+    "url": "/events/2356611",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "queso feat. Prosumer",
+    "date": "2026-02-21T00:00:00.000",
+    "start_time": "2026-02-21T23:00:00.000",
+    "end_time": "2026-02-22T06:00:00.000",
+    "artists": "Prosumer",
+    "venue": "Club Malasaña",
+    "url": "/events/2359618",
+    "attending": "1",
+    "image": ""
+  },
+  {
     "name": "KANTINA IS BACK - Special House Edition - 12H UNDER THE RED LIGHT",
     "date": "2026-02-22T00:00:00.000",
     "start_time": "2026-02-22T17:00:00.000",
@@ -2273,18 +2240,7 @@
     "artists": "DVS1, Ogazón, Quest, LAIA, Marcos in Dub",
     "venue": "The Bassement",
     "url": "/events/2332063",
-    "attending": "945",
-    "image": ""
-  },
-  {
-    "name": "BOSSA TARDEO: David Page, Héctor Pericet, Julio Machicado, RGUINEA",
-    "date": "2026-02-22T00:00:00.000",
-    "start_time": "2026-02-22T18:00:00.000",
-    "end_time": "2026-02-22T23:59:00.000",
-    "artists": "David Page, Héctor Pericet, Julio Machicado",
-    "venue": "EL SÓTANO",
-    "url": "/events/2342818",
-    "attending": "6",
+    "attending": "957",
     "image": ""
   },
   {
@@ -2295,7 +2251,29 @@
     "artists": "Mako, Arok Shiva",
     "venue": "EL SÓTANO",
     "url": "/events/2342900",
-    "attending": "4",
+    "attending": "11",
+    "image": ""
+  },
+  {
+    "name": "BOSSA TARDEO: David Page, Héctor Pericet, Julio Machicado, RGUINEA",
+    "date": "2026-02-22T00:00:00.000",
+    "start_time": "2026-02-22T18:00:00.000",
+    "end_time": "2026-02-22T23:59:00.000",
+    "artists": "David Page, Héctor Pericet, Julio Machicado",
+    "venue": "EL SÓTANO",
+    "url": "/events/2342818",
+    "attending": "7",
+    "image": ""
+  },
+  {
+    "name": "Skin MISA: FRAN GALAN + 3ZERO3 + Reitze",
+    "date": "2026-02-22T00:00:00.000",
+    "start_time": "2026-02-22T23:00:00.000",
+    "end_time": "2026-02-23T05:30:00.000",
+    "artists": "Reitze",
+    "venue": "Skin",
+    "url": "/events/2357835",
+    "attending": "0",
     "image": ""
   },
   {
@@ -2307,6 +2285,479 @@
     "venue": "TBA",
     "url": "/events/2316007",
     "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "MAD RAVE by Elements Cave",
+    "date": "2026-02-25T00:00:00.000",
+    "start_time": "2026-02-25T23:59:00.000",
+    "end_time": "2026-02-26T05:00:00.000",
+    "artists": "",
+    "venue": "Sala El Sol",
+    "url": "/events/2360175",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Pawlowski / Alba Franch",
+    "date": "2026-02-26T00:00:00.000",
+    "start_time": "2026-02-26T23:59:00.000",
+    "end_time": "2026-02-27T05:30:00.000",
+    "artists": "Pawlowski (UK), Alba Franch",
+    "venue": "Mondo",
+    "url": "/events/2333121",
+    "attending": "7",
+    "image": ""
+  },
+  {
+    "name": "DANZE AFRIKA CLUB: DJ Mois, Chris Rose",
+    "date": "2026-02-26T00:00:00.000",
+    "start_time": "2026-02-26T23:59:00.000",
+    "end_time": "2026-02-27T05:30:00.000",
+    "artists": "DJ Mois",
+    "venue": "EL SÓTANO",
+    "url": "/events/2342975",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "CDVR 4 YEARS: Stenny at ANFANG",
+    "date": "2026-02-26T00:00:00.000",
+    "start_time": "2026-02-26T23:59:00.000",
+    "end_time": "2026-02-27T05:30:00.000",
+    "artists": "Stenny, Aizikovic, BOUNCE BRIGADE",
+    "venue": "Cadavra",
+    "url": "/events/2351145",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "OFFMIND - Highme x Fomo x Alvaro Valero",
+    "date": "2026-02-26T00:00:00.000",
+    "start_time": "2026-02-26T23:59:00.000",
+    "end_time": "2026-02-27T03:00:00.000",
+    "artists": "Highme",
+    "venue": "Cafe La Palma",
+    "url": "/events/2348817",
+    "attending": "6",
+    "image": ""
+  },
+  {
+    "name": "Antidoto Club: Especial Dia de Andalucia",
+    "date": "2026-02-26T00:00:00.000",
+    "start_time": "2026-02-26T23:59:00.000",
+    "end_time": "2026-02-27T05:30:00.000",
+    "artists": "Yosef (ES)",
+    "venue": "Sala ART",
+    "url": "/events/2356618",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "CLUB DEL FOMO invita a COLDCUES (entrada gratis)",
+    "date": "2026-02-26T00:00:00.000",
+    "start_time": "2026-02-26T22:00:00.000",
+    "end_time": "2026-02-27T04:00:00.000",
+    "artists": "ATYCO, Serrato",
+    "venue": "Gilda Club",
+    "url": "/events/2355447",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Club Malasaña feat. Villaça & DHERMIDA",
+    "date": "2026-02-26T00:00:00.000",
+    "start_time": "2026-02-26T23:00:00.000",
+    "end_time": "2026-02-27T05:30:00.000",
+    "artists": "Villaça, DHERMIDA",
+    "venue": "Club Malasaña",
+    "url": "/events/2359619",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Horse Meat Disco + Rayko",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "Horse Meat Disco, Rayko",
+    "venue": "Sala Villanos",
+    "url": "/events/2325977",
+    "attending": "148",
+    "image": ""
+  },
+  {
+    "name": "Nic Fanciulli",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "Nic Fanciulli",
+    "venue": "Lula Club",
+    "url": "/events/2349023",
+    "attending": "26",
+    "image": ""
+  },
+  {
+    "name": "Insulto Club",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T05:30:00.000",
+    "artists": "TRIXYTRICKS, JvggedDoggie",
+    "venue": "Guss Club",
+    "url": "/events/2350218",
+    "attending": "13",
+    "image": ""
+  },
+  {
+    "name": "NO FAME + Balheim + La Ind0 · DANZA NUOVA",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "Balheim, La Ind0",
+    "venue": "Specka",
+    "url": "/events/2350366",
+    "attending": "8",
+    "image": ""
+  },
+  {
+    "name": "BOSSA: Cotto, Grau, Hector Pericet B2B RGUINEA, Julio Machicado, Kily ruiz",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "Héctor Pericet, Julio Machicado, Kily Ruiz",
+    "venue": "EL SÓTANO",
+    "url": "/events/2344372",
+    "attending": "7",
+    "image": ""
+  },
+  {
+    "name": "Gilda Club - San Junipero",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "El cuerpo del Disco, esqivel, Nau Leone, Diego Montiel",
+    "venue": "Gilda Club",
+    "url": "/events/2357443",
+    "attending": "5",
+    "image": ""
+  },
+  {
+    "name": "CDVR 4 YEARS: Sigh.CLUB w/ Rasho",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "Rasho, Cesc (ES), EMIR-B, Arnic, Avo (ES)",
+    "venue": "Cadavra",
+    "url": "/events/2309211",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Elements Cave",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "",
+    "venue": "Next Clubbing",
+    "url": "/events/2360178",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Skin ALPHA: KLEYVER + NETN + Theia Daja",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "NETN, Theia Daja",
+    "venue": "Skin",
+    "url": "/events/2360581",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Pangea Collective with UVB, Pablo Olalla, Guest ",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T08:00:00.000",
+    "artists": "UVB, Pablo Olalla, Guest",
+    "venue": "Lasociaciøn",
+    "url": "/events/2333802",
+    "attending": "87",
+    "image": ""
+  },
+  {
+    "name": "Cora Collective: Volumen II",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:30:00.000",
+    "end_time": "2026-02-28T08:00:00.000",
+    "artists": "bendite, Claws",
+    "venue": "TBA - Club 110",
+    "url": "/events/2344306",
+    "attending": "51",
+    "image": ""
+  },
+  {
+    "name": "EKHO / DAVE CLARKE",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:00:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "",
+    "venue": "ART Madrid Club",
+    "url": "/events/2346730",
+    "attending": "9",
+    "image": ""
+  },
+  {
+    "name": "THE SECRET SHOW",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T21:30:00.000",
+    "end_time": "2026-02-27T23:59:00.000",
+    "artists": "",
+    "venue": "TBA",
+    "url": "/events/2351703",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Agosto en Madrid",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:59:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "",
+    "venue": "Sala B",
+    "url": "/events/2351553",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Pedrose & friends with MALENA & Nikita Green",
+    "date": "2026-02-27T00:00:00.000",
+    "start_time": "2026-02-27T23:00:00.000",
+    "end_time": "2026-02-28T06:00:00.000",
+    "artists": "Pedrose, MALENA, Nikita Green",
+    "venue": "Club Malasaña",
+    "url": "/events/2359621",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Pegassi / Gerardo Niva / Céleste",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Pegassi, Gerardo Niva, Céleste",
+    "venue": "Mondo",
+    "url": "/events/2333122",
+    "attending": "72",
+    "image": ""
+  },
+  {
+    "name": "CASA HOUSE: DIEGO DELGADO, Ezekiel Monjes, VERGARA, YANHERO",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Ezekiel Monjes",
+    "venue": "Hangar48 Club",
+    "url": "/events/2344657",
+    "attending": "23",
+    "image": ""
+  },
+  {
+    "name": "UMAMII present Deborah De Luca",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:00:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Deborah De Luca",
+    "venue": "The Bassement",
+    "url": "/events/2356764",
+    "attending": "28",
+    "image": ""
+  },
+  {
+    "name": "ROTTEN CITY BASEMENT: Damon Jee, Álvaro Cabana",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Damon Jee, Alvaro Cabana",
+    "venue": "EL SÓTANO",
+    "url": "/events/2345249",
+    "attending": "17",
+    "image": ""
+  },
+  {
+    "name": "Steve Bug Dj Set + ACID HERO / Nacho Marco",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Steve Bug, ACID HERO, Nacho Marco",
+    "venue": "Sala Villanos",
+    "url": "/events/2341725",
+    "attending": "12",
+    "image": ""
+  },
+  {
+    "name": "CDVR 4 YEARS: Glossy Mistakes w/ PLO Man",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "PLO Man, Glossy Mario, berta (ES)",
+    "venue": "Cadavra",
+    "url": "/events/2347779",
+    "attending": "10",
+    "image": ""
+  },
+  {
+    "name": "Soundhall Sessions - Specka Club",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Atisbo",
+    "venue": "Specka",
+    "url": "/events/2355900",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "Gilda Club - Make A Dance",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Make A Dance, DIGUES, Jay Luna, BIHABI, Cabin Luv Affair",
+    "venue": "Gilda Club",
+    "url": "/events/2357445",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "Roots",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "",
+    "venue": "Lula Club",
+    "url": "/events/2350157",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "Skin CALIENTE X MISO",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "GIA, pavvvvvvlo, Salomelody",
+    "venue": "Skin",
+    "url": "/events/2360565",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "Red Moon | hardgroove - techno - vinyl night (Studio76)",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T10:00:00.000",
+    "artists": "",
+    "venue": "TBA - ENTITY powered by VOID ACOUSTCS",
+    "url": "/events/2327403",
+    "attending": "81",
+    "image": ""
+  },
+  {
+    "name": "LOCAL EDITION: Esther Summer, Koopa, Djen, Zagal",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Koopa, Djen, Zagal",
+    "venue": "Araña Club",
+    "url": "/events/2345281",
+    "attending": "32",
+    "image": ""
+  },
+  {
+    "name": "TRAMA meets CERTAIN MUSIC",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T15:00:00.000",
+    "artists": "Certain People, Chris Gorrie, Emi Koto, Maya B, Pablo Ruizgalan, Vass",
+    "venue": "Lasociaciøn",
+    "url": "/events/2348088",
+    "attending": "25",
+    "image": ""
+  },
+  {
+    "name": "ART ELECTRONIC",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "",
+    "venue": "Sala ART",
+    "url": "/events/2353101",
+    "attending": "4",
+    "image": ""
+  },
+  {
+    "name": "La Resistencia: ZOMBIE NATION",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T18:00:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "Bluntz, DJ Marta, Raul Ortiz, Tasuik, Yeyo",
+    "venue": "Fabrik",
+    "url": "/events/2329746",
+    "attending": "3",
+    "image": ""
+  },
+  {
+    "name": "CLUBBERS TARDEO ROOTS",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T17:00:00.000",
+    "end_time": "2026-02-28T23:30:00.000",
+    "artists": "",
+    "venue": "Nazca Club",
+    "url": "/events/2347153",
+    "attending": "1",
+    "image": ""
+  },
+  {
+    "name": "DJ Spen",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:59:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "DJ Spen",
+    "venue": "Tempo",
+    "url": "/events/2353057",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "2M Resonica",
+    "date": "2026-02-28T00:00:00.000",
+    "start_time": "2026-02-28T23:00:00.000",
+    "end_time": "2026-03-01T06:00:00.000",
+    "artists": "2M",
+    "venue": "Club Malasaña",
+    "url": "/events/2359623",
+    "attending": "0",
+    "image": ""
+  },
+  {
+    "name": "bradeazy in Madrid",
+    "date": "2026-03-02T00:00:00.000",
+    "start_time": "2026-03-02T23:00:00.000",
+    "end_time": "2026-03-03T06:00:00.000",
+    "artists": "bradeazy",
+    "venue": "Shoko Madrid",
+    "url": "/events/2356532",
+    "attending": "2",
+    "image": ""
+  },
+  {
+    "name": "Oval: Florence Sinclair",
+    "date": "2026-03-04T00:00:00.000",
+    "start_time": "2026-03-04T20:30:00.000",
+    "end_time": "2026-03-04T23:30:00.000",
+    "artists": "Florence Sinclair",
+    "venue": "Sala B",
+    "url": "/events/2351538",
+    "attending": "0",
     "image": ""
   }
 ]
